@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Mostly Curious Blog</title>
+ <link href="http://mostlycurious.com/atom.xml" rel="self"/>
+ <link href="http://mostlycurious.com/"/>
+ <updated>2013-03-19T01:21:26-04:00</updated>
+ <id>http://mostlycurious.com/</id>
+
+ 
+ <entry>
+   <title>Migrating from Posterous to Jekyll</title>
+   <link href="http://mostlycurious.com/2013/03/17/posterous2jekyll/"/>
+   <updated>2013-03-17T00:00:00-04:00</updated>
+   <id>http://blog.apps.npr.org/2013/03/17/posterous2jekyll</id>
+   <content type="html">&lt;p&gt;After several years of happily using posterous and it's easy email-to-blog service, I've been forced to seek alternatives as posterous will turn off later next month. This post is my first attempt to blog using Jekyll, a rather straightforward way to communicate on the web.&lt;/p&gt;
+
+&lt;p&gt;I'll be trying Jekyll out for a bit.  I basically took the instructions from the &lt;a href=&quot;http://blog.apps.npr.org/2012/11/08/npr-news-apps-blog.html&quot;&gt;NPR blog site&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>About Me</title>
+   <link href="http://mostlycurious.com/2013/03/17/about/"/>
+   <updated>2013-03-17T00:00:00-04:00</updated>
+   <id>http://blog.apps.npr.org/2013/03/17/about</id>
+   <content type="html">&lt;p&gt;&lt;section class=&quot;entry&quot;&gt;&lt;/p&gt;
+
+&lt;h3&gt;Robert Barretto&lt;/h3&gt;
+
+
+&lt;p&gt;&lt;img class=&quot;img-mug&quot; width=&quot;90&quot; src=&quot;../../../../img/robert.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;I'm the main curator of mostlycurious. I'm a cofounder of sheepdog sciences, where we translate neuroscience research into tools and systems that can improve our everyday lives. I also do basic neuroscience research with Charles Zuker at Columbia University. I am originally from Oak Lawn, a South Side suburb of Chicago. I tend to like my job on most days. Find me on Twitter as &lt;a href=&quot;http://www.twitter.com/rpjb&quot;&gt;@rpjb&lt;/a&gt; &lt;/p&gt;
+
+
+&lt;p&gt;&lt;/section&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
