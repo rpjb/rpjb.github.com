@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Vacation at an old military fortress"
+title: "The good life at Spitbank Fort"
 author: robert barretto
-description: "![Old fort to luxury hotel](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Guests_Arriving_at_Spitbank_Fort.jpg/300px-Guests_Arriving_at_Spitbank_Fort.jpg) You could even get married on an island fortress."
+description: "You could even get married at this island fortress."
 ---
 ![Old fort to luxury hotel](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Guests_Arriving_at_Spitbank_Fort.jpg/300px-Guests_Arriving_at_Spitbank_Fort.jpg)
 
