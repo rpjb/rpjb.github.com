@@ -4,9 +4,24 @@
  <title>Mostly Curious Blog</title>
  <link href="http://mostlycurious.com/atom.xml" rel="self"/>
  <link href="http://mostlycurious.com/"/>
- <updated>2013-03-19T02:18:41-04:00</updated>
+ <updated>2013-03-19T04:48:15-04:00</updated>
  <id>http://mostlycurious.com/</id>
 
+ 
+ <entry>
+   <title>Vacation at an old military fortress</title>
+   <link href="http://mostlycurious.com/2013/03/19/spitbank-fort/"/>
+   <updated>2013-03-19T00:00:00-04:00</updated>
+   <id>http://blog.apps.npr.org/2013/03/19/spitbank-fort</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Guests_Arriving_at_Spitbank_Fort.jpg/300px-Guests_Arriving_at_Spitbank_Fort.jpg&quot; alt=&quot;Old fort to luxury hotel&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A new deal on &lt;a href=&quot;http://www.urbandaddy.com/jt/hotels/22196/Spitbank_Fort_An_Island_Fortress_That_Thinks_It_s_a_Hotel_Jetset_JT_Hotel&quot;&gt;UrbanDaddy&lt;/a&gt; has would-be luxury travelers vacationing in an old military fort on the English Channel. Back in the 1860's, this fort was built to protect Portsmouth from presumably invading naval ships.&lt;/p&gt;
+
+&lt;p&gt;About 1 million British pounds and 150 years laters, a quick perusal of the &lt;a href=&quot;http://www.spitbankfort.com/&quot;&gt;Spitbank Fort website&lt;/a&gt; shows a legit tourist attraction complete with amenities for corporate events and even weddings!  If you look hard enough on the site, you might actually get an idea of where it is exactly.  In fact this fort is so small, that you can barely distinguish it from nearby boats on the google maps satellite image (green arrow).&lt;/br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/2013-03-19-spitbankfort.png&quot; alt=&quot;A small dot 1km offshore&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Migrating from Posterous to Jekyll</title>
@@ -15,7 +30,7 @@
    <id>http://blog.apps.npr.org/2013/03/17/posterous2jekyll</id>
    <content type="html">&lt;p&gt;After several years of happily using posterous and it's easy email-to-blog service, I've been forced to seek alternatives as posterous will turn off later next month. This post is my first attempt to blog using Jekyll, a rather straightforward way to communicate on the web.&lt;/p&gt;
 
-&lt;p&gt;I'll be trying Jekyll out for a bit.  I basically took the instructions from the &lt;a href=&quot;http://blog.apps.npr.org/2012/11/08/npr-news-apps-blog.html&quot;&gt;NPR blog site&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I'll be trying Jekyll out for a bit.  I basically took the instructions from the &lt;a href=&quot;http://blog.apps.npr.org/2012/11/08/npr-news-apps-blog.html&quot;&gt;NPR blog site&lt;/a&gt;. Please forgive the bare bones nature of the site, we're under construction. And by that I mean, I'm figuring out how to type in markdown, and actually find some visual inspiration.&lt;/p&gt;
 </content>
  </entry>
  
