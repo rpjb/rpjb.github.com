@@ -2,7 +2,7 @@
 layout: post
 title: "Vacation at an old military fortress"
 author: robert barretto
-description: "You could even get married on an island fortress."
+description: "![Old fort to luxury hotel](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Guests_Arriving_at_Spitbank_Fort.jpg/300px-Guests_Arriving_at_Spitbank_Fort.jpg) You could even get married on an island fortress."
 ---
 ![Old fort to luxury hotel](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Guests_Arriving_at_Spitbank_Fort.jpg/300px-Guests_Arriving_at_Spitbank_Fort.jpg)
 
