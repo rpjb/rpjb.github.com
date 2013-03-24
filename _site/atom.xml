@@ -4,9 +4,24 @@
  <title>Mostly Curious Blog</title>
  <link href="http://mostlycurious.com/atom.xml" rel="self"/>
  <link href="http://mostlycurious.com/"/>
- <updated>2013-03-19T05:07:51-04:00</updated>
+ <updated>2013-03-24T00:11:36-04:00</updated>
  <id>http://mostlycurious.com/</id>
 
+ 
+ <entry>
+   <title>Fonts for mostlycurious</title>
+   <link href="http://mostlycurious.com/2013/03/23/google-web-fonts/"/>
+   <updated>2013-03-23T00:00:00-04:00</updated>
+   <id>http://blog.apps.npr.org/2013/03/23/google-web-fonts</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/posts/2013-02-23-googlewebfont.png&quot; alt=&quot;Lato font by Lukasz Dziedzic&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.google.com/webfonts&quot;&gt;Google&lt;/a&gt; has a large set of web-optimized, open source fonts, and an easy to use interface to help select that magic one. The fonts load fast, even loading the webpage on a tethered 4g (not LTE) laptop almost as quickly as I can scroll down. When there are 600+ fonts, you're going to do alot of scrolling.&lt;/p&gt;
+
+&lt;p&gt;I settled on the Lato font at 400 weight. On my Keynote presentations, I've used Helvetica Neue with light weighting since 2009. So I guess I was looking for something similar. I wanted thin lines, which Helvetica Neue does with good effect. However unlike presentations, I presume someone will be reading these paragraphs. So on a browser, perhaps something with a bit larger character spacing would work. Let me know what you think....&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/2013-03-23-helvetica-neue.png&quot; alt=&quot;Helvetica Neue Light in Keynote&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>The good life at Spitbank Fort</title>

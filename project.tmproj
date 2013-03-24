@@ -51,20 +51,6 @@
 				<integer>10</integer>
 			</dict>
 		</dict>
-		<key>_posts/2013-03-17-posterous2jekyll.markdown</key>
-		<dict>
-			<key>caret</key>
-			<dict>
-				<key>column</key>
-				<integer>330</integer>
-				<key>line</key>
-				<integer>10</integer>
-			</dict>
-			<key>firstVisibleColumn</key>
-			<integer>0</integer>
-			<key>firstVisibleLine</key>
-			<integer>0</integer>
-		</dict>
 		<key>_posts/2013-03-19-spitbank-fort.markdown</key>
 		<dict>
 			<key>caret</key>
@@ -77,7 +63,7 @@
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<integer>6</integer>
 		</dict>
 		<key>index.html</key>
 		<dict>
@@ -98,8 +84,6 @@
 	<array>
 		<string>index.html</string>
 		<string>_posts/2013-03-19-spitbank-fort.markdown</string>
-		<string>_posts/2013-03-17-posterous2jekyll.markdown</string>
-		<string>_posts/2013-03-17-about.markdown</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
