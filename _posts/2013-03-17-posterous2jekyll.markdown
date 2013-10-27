@@ -2,9 +2,7 @@
 layout: post
 title: "Migrating from Posterous to Jekyll"
 author: robert barretto
-description: "Posterous is closing down, and I'm moving to a simpler service. <br><br>
-
-After several years of happily using posterous and it's easy email-to-blog service, I've been forced to seek alternatives as posterous will turn off later next month. This post is my first attempt to blog using Jekyll, a rather straightforward way to communicate on the web.
+description: "Posterous is closing down, and I'm moving to a simpler service."
 ---
 After several years of happily using posterous and it's easy email-to-blog service, I've been forced to seek alternatives as posterous will turn off later next month. This post is my first attempt to blog using Jekyll, a rather straightforward way to communicate on the web.
 
