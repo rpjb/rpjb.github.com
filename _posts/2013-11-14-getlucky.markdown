@@ -1,0 +1,10 @@
+---
+layout: post
+title: "How we expect to get rich"
+author: robert barretto
+description: "It's too easy."
+---
+Ramit Sethi has a blog called "[I Will Teach You to Be Rich](http://www.iwillteachyoutoberich.com)", which provides aton of interesting information about maybe not how to get rich, but how to make your skills work for you.
+
+One particular factoid that he recently emailed out shows our collective optimism at its best:
+![Get rich by getting lucky](/img/posts/2013-11-14-berich.png)
