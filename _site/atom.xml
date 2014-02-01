@@ -4,9 +4,20 @@
  <title>Mostly Curious Blog</title>
  <link href="http://mostlycurious.com/atom.xml" rel="self"/>
  <link href="http://mostlycurious.com/"/>
- <updated>2013-11-19T15:08:02-05:00</updated>
+ <updated>2014-01-31T20:56:24-05:00</updated>
  <id>http://mostlycurious.com/</id>
 
+ 
+ <entry>
+   <title>the Sheepdog Sciences word cloud</title>
+   <link href="http://mostlycurious.com/2014/01/31/sheepdog-wordcloud/"/>
+   <updated>2014-01-31T00:00:00-05:00</updated>
+   <id>http://blog.apps.npr.org/2014/01/31/sheepdog-wordcloud</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/posts/2014-01-31-sds-word-cloud.jpg&quot; alt=&quot;Sheepdog Sciences word cloud&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;made by Todd Anderson, co-founder of Sheepdog Sciences&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Digital enhancements</title>
