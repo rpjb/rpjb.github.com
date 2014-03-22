@@ -6,3 +6,5 @@ Today I was introduced to some nice colors. For my presentations, I always use a
 ![My keynote palette](/_drafts/2014-03-22-keynote-colors.png)
 
 ![Solarized logo](/_drafts/solarized-yinyang.png)
+
+![test](/_drafts/solarized-yinyang.png)
