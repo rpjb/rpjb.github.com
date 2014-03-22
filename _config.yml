@@ -10,8 +10,35 @@ permalink: pretty
 pygments: false
 
 prose:
-	siteurl: "http://rpjb.github.com"
-	site: "http://rpjb.github.com"
-    media: img/posts
-    rooturl: '_posts'
+  rooturl: '_posts'
+  siteurl: 'http://rpjb.github.com'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'img/posts'
+	metadata:
+      _posts:
+      	- name: "layout"
+          field:
+            element: "hidden"
+            value: "post"
+        - name: "title"
+          field:
+            element: "text"
+            label: "Title"
+            value: ""
+            type: "text"
+        - name: "author"
+          field:
+            element: "text"
+            label: "Author"
+            value: ""
+            placeholder: "Trunk Botterson"
+            type: "text"
+        - name: "tags"
+          field:
+            element: "multiselect"
+            label: "Add Tags"
+            placeholder: "Choose Tags"
+            alterable: true
+
+        	
     
