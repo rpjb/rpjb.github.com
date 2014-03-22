@@ -18,8 +18,8 @@ prose:
         field:
           element: "hidden"
           value: "post"
-      - name: "title"
+      - name: "author"
         field:
           element: "text"
-          label: "Title"
-          value: ""
+          label: "author"
+          value: "robert barretto"
