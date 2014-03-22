@@ -27,7 +27,6 @@ prose:
         field:
           element: "text"
           label: "Author"
-          value: ""
+          value: "a"
           placeholder: "robert barretto"
           type: "text"
-          
