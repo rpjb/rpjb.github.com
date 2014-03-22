@@ -13,7 +13,7 @@ prose:
   rooturl: '_posts'
   siteurl: 'http://rpjb.github.com'
   relativeLinks: 'http://rpjb.github.com/links.jsonp'
-  media: 'img/posts'
+  media: 'media'
 	metadata:
       source/_posts:
       	- name: "layout"
