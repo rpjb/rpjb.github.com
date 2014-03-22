@@ -28,5 +28,4 @@ prose:
           element: "text"
           label: "Author"
           value: "a"
-          placeholder: "robert barretto"
           type: "text"
