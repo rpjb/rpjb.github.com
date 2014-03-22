@@ -9,3 +9,6 @@ markdown: rdiscount
 permalink: pretty
 pygments: false
 
+prose:
+  siteurl: "http://rpjb.github.com"
+  media: "img/posts"
