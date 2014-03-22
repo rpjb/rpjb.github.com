@@ -23,3 +23,8 @@ prose:
           element: "text"
           label: "author"
           value: "robert barretto"
+      - name: "image"
+        field:
+          element: "text"
+          label: "image"
+          value: ""
