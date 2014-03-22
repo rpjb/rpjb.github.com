@@ -28,6 +28,6 @@ prose:
           element: "text"
           label: "Author"
           value: ""
-          placeholder: robert barretto"
+          placeholder: "robert barretto"
           type: "text"
           
