@@ -10,7 +10,7 @@ permalink: pretty
 pygments: false
 
 prose:
-  siteurl: "http://rpjb.github.com"
+  siteurl: "http://mostlycurious.com"
   media: "img/posts"
   metadata:
     _posts:
