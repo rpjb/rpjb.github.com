@@ -15,7 +15,7 @@ prose:
   relativeLinks: 'http://rpjb.github.com/links.jsonp'
   media: 'media'
 	metadata:
-      source/_posts:
+      _posts:
       	- name: "layout"
           field:
             element: "hidden"
