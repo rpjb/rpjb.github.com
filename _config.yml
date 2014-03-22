@@ -23,9 +23,3 @@ prose:
           element: "text"
           label: "Title"
           value: ""
-	  - name: "author"
-        field:
-          element: "text"
-          label: "Author"
-          value: "a"
-          type: "text"
