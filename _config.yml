@@ -23,5 +23,11 @@ prose:
           element: "text"
           label: "Title"
           value: ""
-          
+	  - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          value: ""
+          placeholder: robert barretto"
+          type: "text"
           
