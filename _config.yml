@@ -8,11 +8,3 @@ paginate: 10
 markdown: rdiscount
 permalink: pretty
 pygments: false
-
-prose:
-  rooturl: '_posts'
-  siteurl: 'http://rpjb.github.com'
-  relativeLinks: 'http://rpjb.github.com/links.jsonp'
-  media: 'media'
-        	
-    
