@@ -2,6 +2,7 @@
 layout: post
 published: false
 title: test6
+author: robert barretto
 ---
 
 ## A New Post
