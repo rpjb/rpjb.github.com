@@ -8,3 +8,5 @@ Today I was introduced to some nice colors. For my presentations, I always use a
 ![Solarized logo](/_drafts/solarized-yinyang.png)
 
 ![test](/_drafts/solarized-yinyang.png)
+
+![t](/_drafts/2014-03-22-keynote-colors.png)
