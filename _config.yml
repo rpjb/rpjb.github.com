@@ -15,7 +15,7 @@ prose:
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'img/posts'
 	metadata:
-      _posts:
+      source/_posts:
       	- name: "layout"
           field:
             element: "hidden"
