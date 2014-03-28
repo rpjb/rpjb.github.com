@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-image: "![Solarized](/img/posts/2014-03-22-solarized.png)"
+image: "/img/posts/2014-03-22-solarized.png"
 ---
 
 ![Solarized](/img/posts/2014-03-22-solarized.png)
