@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-title: test8
+published: true
+title: Solarized colors for your viewing pleasure
 author: robert barretto
 image: "/img/posts/2013-02-23-googlewebfont.png"
 ---
