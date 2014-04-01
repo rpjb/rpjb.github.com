@@ -11,7 +11,7 @@ pygments: false
 
 
 prose:
-  siteurl: "http://mostlycurious.com"
+  siteurl: "http://rpjb.github.com"
   media: "img/posts"
   metadata:
     _posts:
