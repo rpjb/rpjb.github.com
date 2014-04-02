@@ -3,6 +3,8 @@ layout: post
 published: true
 author: robert barretto
 image: "/img/posts/2014-03-22-solarized.png"
+categories: [web]
+
 ---
 
 ![Solarized](/img/posts/2014-03-22-solarized.png =200x200)
