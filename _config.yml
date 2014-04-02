@@ -29,3 +29,13 @@ prose:
           element: "text"
           label: "image"
           value: ""
+      - name: "categories"
+        field:
+          element: "multiselect"
+          options::
+            - name: "web"
+              value: "web"
+            - name: "sleep"
+              value: "sleep"
+            - name: "learning"
+              value: "learning"
