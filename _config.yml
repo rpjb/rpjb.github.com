@@ -33,7 +33,7 @@ prose:
         field:
           element: "multiselect"
           label: "categories"
-          options::
+          options:
             - name: "web"
               value: "web"
             - name: "sleep"
