@@ -2,6 +2,8 @@
 layout: post
 published: false
 author: robert barretto
+categories: 
+  - web
 ---
 
 ## A New Post
