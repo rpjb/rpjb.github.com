@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 author: robert barretto
 categories: 
   - sleep
@@ -14,4 +14,3 @@ However there was an interesting answer that warrants some further thought:
 I tracked down the paper from the [lab of Ying-Hui Fu](http://www.neugenes.org/outreach.htm) at UCSF. The paper, titled [The Transcriptional Repressor DEC2 Regulates Sleep Length in Mammals](http://www.sciencemag.org/content/325/5942/866), identifies a single mutation (a C to G DNA point mutation) on a gene that gives its carriers the ability to naturally wake-up earlier,as they require less sleep.  The paper goes on to recapitulate the effects of this mutation in mice, because we can easily modify their genomes. The only issue, is that mice don't really sleep the same way humans do.  
 
 Anyways, it's interesting, because there are now technologies that can be used to easily screen for this mutation, as well as potentially [edit the gene](http://zlab.mit.edu) in humans. But at the same time, I'll continue to enjoy my sleep.
-
