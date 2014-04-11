@@ -2,6 +2,7 @@
 layout: post
 published: false
 author: robert barretto
+description: "key ingredient -- 400 grit sandpaper "
 ---
 
 I've been looking for a good answer to cleaning unfinished wood.
