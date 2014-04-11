@@ -29,6 +29,11 @@ prose:
           element: "text"
           label: "image"
           value: ""
+      - name: "description"
+        field:
+          element: "text"
+          label: "description"
+          value: ""
       - name: "categories"
         field:
           element: "multiselect"
