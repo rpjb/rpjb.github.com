@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 author: robert barretto
 description: "key ingredient -- 400 grit sandpaper "
 ---
