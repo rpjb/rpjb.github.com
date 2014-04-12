@@ -8,7 +8,7 @@ image: "/img/posts/2014-04-12-alligator.png"
 
 Here's a youtube video of an alligator trying to eat an electric eel.
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=d01wLnN689g" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=d01wLnN689g" frameborder="0" allowfullscreen> </iframe>
 
 It sure looks like the alligator died from electric shock, while the eel presumably died from a permanent crimping via aligator jaw.  And I wondered to myself, if such encounters are lethal to the eel, does it serve an evolutionary advantage?
 
