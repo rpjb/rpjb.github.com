@@ -1,8 +1,7 @@
 ---
 layout: post
-title: ""
 author: robert barretto
-description: ""
+description: "work around teenage sleep cycles for better memories"
 image: "/img/posts/2014-03-16-clock.jpeg"
 published: true
 categories: 

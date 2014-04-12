@@ -3,6 +3,7 @@ layout: post
 published: true
 author: robert barretto
 image: "/img/posts/2014-03-22-solarized.png"
+description: "a nice colorset for web"
 categories: [web]
 
 ---
