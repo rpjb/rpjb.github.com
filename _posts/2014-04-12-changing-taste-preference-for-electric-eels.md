@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 author: robert barretto
 description: one eel at a time
 image: "/img/posts/2014-04-12-alligator.png"
