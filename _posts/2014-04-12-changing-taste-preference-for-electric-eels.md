@@ -1,7 +1,9 @@
 ---
 layout: post
-published: true
+published: false
 author: robert barretto
+description: one eel at a time
+image: "/img/posts/2014-04-12-alligator.png"
 ---
 
 Here's a youtube video of an alligator trying to eat an electric eel.
