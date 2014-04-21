@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 author: robert barretto
 description: fare predictors should be tailored for the user.
 ---
