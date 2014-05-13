@@ -6,6 +6,7 @@ description: Minimize your morning grogginess
 categories: 
   - sleep
   - learning
+image: "img/posts/2014-05-12-clocky.jpg"
 ---
 
 An [article from the New Yorker by Maria Konnikova](http://www.newyorker.com/online/blogs/elements/2013/12/science-of-sleep-trouble-with-snooze-buttons.html) has an interesting introduction to the concept of sleep inertia. The time between the moment you wake up in the morning until the moment you are really awake is called sleep inertia.  And it can be really bad.  It turns out that our brains take some time to get into awake mode, and as a result our memory, and ability to perform are negatively effected.
