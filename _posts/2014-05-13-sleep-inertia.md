@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 author: robert barretto
 description: Minimize your morning grogginess
 categories: 
@@ -14,4 +14,4 @@ An [article from the New Yorker by Maria Konnikova](http://www.newyorker.com/onl
 There's a good quote from [Professor Kenneth Wright](http://www.colorado.edu/intphys/research/sleep.html):
 > Cognition is best several hours prior to habitual sleep time, and worst near habitual wake time.
 
-So if you have a mission critical activity, you're going to want to minimize sleep inertia. To do this, you'll want to wake up naturally.  And that's affected by natural light, and your own internal alarm clock. We can each appreciate that our bodies are very different, so each person will need to emperically determine the best sleep habits.  And contrary to what your mother may tell you, sleep duration doesn't necessarily lead to the best outcome. 
+So if you have a mission critical activity, you're going to want to minimize sleep inertia. To do this, you'll want to wake up naturally.  And that's affected by natural light, and your own internal alarm clock. We can each appreciate that our bodies are very different, so each person will need to emperically determine the best sleep habits.  And contrary to what your mother may tell you, sleep duration doesn't necessarily lead to the best outcome.
