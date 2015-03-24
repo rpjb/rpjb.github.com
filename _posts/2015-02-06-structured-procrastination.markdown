@@ -2,6 +2,11 @@
 layout: post
 title: Structured procrastination
 date: '2015-02-06 03:50:13'
+image: "http://ecx.images-amazon.com/images/I/41Ylf6lZRvL._SX258_BO1,204,203,200_.jpg"
+description: Skip the most important task for the next most important task
+categories: 
+  - productivity
+
 ---
 
 > the procrastinator can be motivated to do difficult, timely and important tasks, as long as these tasks are a way of not doing something more important.

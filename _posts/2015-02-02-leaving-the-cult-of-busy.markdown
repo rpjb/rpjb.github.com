@@ -1,7 +1,13 @@
 ---
 layout: post
 title: Leaving the Cult of Busy
+published: true
+author: robert barretto
+categories: 
+  - productivity
+image: "/img/posts/2015-02-02-cult-of-busy.png"
 date: '2015-02-02 03:59:24'
+
 ---
 
 Dina Kaplan has an insightful artice aptly named [The Cult of Busy](https://medium.com/thelist/the-cult-of-busy-bbb124caed51), which explores whether we are over-allocating our lives to busywork.

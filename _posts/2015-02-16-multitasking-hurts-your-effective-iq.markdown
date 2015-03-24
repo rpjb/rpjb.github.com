@@ -2,6 +2,11 @@
 layout: post
 title: Multitasking hurts your effective IQ
 date: '2015-02-16 20:17:46'
+image: "http://ecx.images-amazon.com/images/I/41fd-uSM0QL._AA160_.jpg"
+categories: 
+  - learning
+  - productivity
+
 ---
 
 [The Guardian has an article by Daniel Levitan](http://www.theguardian.com/science/2015/jan/18/modern-world-bad-for-brain-daniel-j-levitin-organized-mind-information-overload) that describes the negatives of multitasking. 

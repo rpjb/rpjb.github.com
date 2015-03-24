@@ -1,7 +1,16 @@
 ---
 layout: post
 title: Choosing a good team
+published: true
+author: robert barretto
+categories: 
+  - productivity
 date: '2015-02-06 04:09:33'
+image: "/img/posts/2015-02-06-smarter-than-others.png"
+description: Of course balance is the answer....
+categories: 
+  - productivity
+
 ---
 
 There's an opinion piece in the New York Times on [why some teams are smarter than others](http://www.nytimes.com/2015/01/18/opinion/sunday/why-some-teams-are-smarter-than-others.html). The authors, gave a large number of teams a set of real-world challenges, and examined their performance. 

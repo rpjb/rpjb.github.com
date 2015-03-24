@@ -2,9 +2,12 @@
 layout: post
 title: Cognitive behavioral therapy for insomnia - Sleepio
 date: '2015-03-02 22:42:14'
+image: "/img/posts/2015-03-02-jawbone-email-sleepio.png"
+categories: 
+  - sleep
 ---
 
-![](/ghostdev/content/images/2015/03/jawbone-email-sleepio.png)
+![](/img/posts/2015-03-02-jawbone-email-sleepio.png)
 
 Above is an image of a Jawbone email, advertising some new products in their space.  Of particular interest was Sleepio, a company that runs a sleep improvement program.
 

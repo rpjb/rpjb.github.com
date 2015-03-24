@@ -4,9 +4,178 @@
  <title>Mostly Curious Blog</title>
  <link href="http://mostlycurious.com/atom.xml" rel="self"/>
  <link href="http://mostlycurious.com/"/>
- <updated>2014-09-09T09:57:32-04:00</updated>
+ <updated>2015-03-24T16:56:12-04:00</updated>
  <id>http://mostlycurious.com/</id>
 
+ 
+ <entry>
+   <title>Cognitive behavioral therapy for insomnia - Sleepio</title>
+   <link href="http://mostlycurious.com/sleep/2015/03/02/cognitive-behavioral-therapy-for-insomnia-sleepio/"/>
+   <updated>2015-03-02T22:42:14-05:00</updated>
+   <id>http://blog.apps.npr.org/sleep/2015/03/02/cognitive-behavioral-therapy-for-insomnia-sleepio</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/posts/2015-03-02-jawbone-email-sleepio.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Above is an image of a Jawbone email, advertising some new products in their space.  Of particular interest was Sleepio, a company that runs a sleep improvement program.&lt;/p&gt;
+
+&lt;p&gt;I visited their &lt;a href=&quot;https://www.sleepio.com&quot;&gt;website&lt;/a&gt;, and was welcomed with:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Can we help you sleep better?&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;The site welcomes you to take a quick survery about your sleep, and in my opinion ask the correct questions about the status of your sleep.  Questions like how long it takes for you to fall asleep, or whether you feel restless at night. After some numbers crunching, the Sleepio surveymonkey appears to phenotype your sleep profile, and compute whether it&#39;s product will help you:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;We have helped 69% of people with sleep like yours improve their sleep.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;The Sleepio product is based on something called cognitive behavioral therapy.  In this instance, the therapy aims to break a presumed bad cycle of negative sleep thoughts leading to negative emotions regarding sleep, which inevitably result in poor sleep behaviors. Of course, this will only work to the extent that there isn&#39;t an underlying physiological reason for poor sleep (e.g. sleep apnea, or a truly unique melantonin brain circuit).&lt;/p&gt;
+
+&lt;p&gt;The product consists of 6 or so online weekly therapy sessions, that first suggest practical lifestyle changes to improve your sleep. Something like, turn off all the lights before you sleep. Next the sessions give participants strategies for breaking the association of negative emotions with sleep.&lt;/p&gt;
+
+&lt;p&gt;Up to now this all sounds like psychotherapy.  But here&#39;s where technology comes in: you can use the Jawbone up to track your progress. For the first, you have some feedback on your performance that you cant track alongside your lifestyle adjustments. This sounds simple enough to try before resorting to pharmacological interventions.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Multitasking hurts your effective IQ</title>
+   <link href="http://mostlycurious.com/learning/productivity/2015/02/16/multitasking-hurts-your-effective-iq/"/>
+   <updated>2015-02-16T20:17:46-05:00</updated>
+   <id>http://blog.apps.npr.org/learning/productivity/2015/02/16/multitasking-hurts-your-effective-iq</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.theguardian.com/science/2015/jan/18/modern-world-bad-for-brain-daniel-j-levitin-organized-mind-information-overload&quot;&gt;The Guardian has an article by Daniel Levitan&lt;/a&gt; that describes the negatives of multitasking.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ecx.images-amazon.com/images/I/41fd-uSM0QL._AA160_.jpg&quot; alt=&quot;The Organized Mind&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;According to &lt;a href=&quot;http://www.ekmiller.org/&quot;&gt;Earl Miller&lt;/a&gt; at MIT:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;When people think they’re multitasking, they’re actually just switching from one task to another very rapidly. And every time they do, there’s a cognitive cost in doing so.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Why do we multitask when there&#39;s this switching cost? Our brain releases opioids for the snippets of novelty associated with each individual task. And that could be more valuable to our brains, then the rewards of completing a single, longer task.&lt;/p&gt;
+
+&lt;p&gt;What&#39;s worse, &lt;a href=&quot;https://poldracklab.stanford.edu/&quot;&gt;Russ Poldrack&lt;/a&gt;, does fMRI experiments at Stanford, and proposes that multitasking (er, watching TV) during study time could lead to suboptimal memory storage in the brain.&lt;/p&gt;
+
+&lt;p&gt;The rest of the article focuses on how our most accepted forms of communication (email, text) are inherently configured to promote multitasking and information overload. But there is one quote that sticks out in my mind:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;‘When trying to concentrate on a task, an unread email in your inbox can reduce your effective IQ by 10 points.’&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Corning Gorilla Glass</title>
+   <link href="http://mostlycurious.com/2015/02/08/corning-gorilla-glass/"/>
+   <updated>2015-02-08T03:08:05-05:00</updated>
+   <id>http://blog.apps.npr.org/2015/02/08/corning-gorilla-glass</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.corninggorillaglass.com/&quot;&gt;Corning Gorilla Glass&lt;/a&gt; is the surface for most typical cellphones.&lt;/p&gt;
+
+&lt;p&gt;How it&#39;s made: &lt;img src=&quot;http://www.ishizuka.co.jp/english/material/images/07_img02.gif&quot; alt=&quot;&quot; /&gt;
+The glass is manufactured by incubation in a bath of hot potassium solution. Sodium ions in the glass are exchanged with larger, heavier potassium ions. This results in compressed, chemically strengthened glass.  It&#39;s actually a refinement of old technology that dates back to the 1960s, and similar techniques have been used to alter the optical properties of glass.&lt;/p&gt;
+
+&lt;p&gt;How it&#39;s branded:&lt;img src=&quot;http://www.corninggorillaglass.com/uploads/kcfinder/images/VidVic2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;object id=&quot;flashObj&quot; width=&quot;480&quot; height=&quot;270&quot; classid=&quot;clsid:D27CDB6E-AE6D-11cf-96B8-444553540000&quot; codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://c.brightcove.com/services/viewer/federated_f9?isVid=1&amp;isUI=1&quot; /&gt;&lt;param name=&quot;bgcolor&quot; value=&quot;#FFFFFF&quot; /&gt;&lt;param name=&quot;flashVars&quot; value=&quot;videoId=713927919001&amp;playerID=625505125001&amp;playerKey=AQ~~,AAAAkVHRxYE~,tk4-uogNPTL8DvW4rWbX-hN95sv6ZKg3&amp;domain=embed&amp;dynamicStreaming=true&quot; /&gt;&lt;param name=&quot;base&quot; value=&quot;http://admin.brightcove.com&quot; /&gt;&lt;param name=&quot;seamlesstabbing&quot; value=&quot;false&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;swLiveConnect&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot; /&gt;&lt;embed src=&quot;http://c.brightcove.com/services/viewer/federated_f9?isVid=1&amp;isUI=1&quot; bgcolor=&quot;#FFFFFF&quot; flashVars=&quot;videoId=713927919001&amp;playerID=625505125001&amp;playerKey=AQ~~,AAAAkVHRxYE~,tk4-uogNPTL8DvW4rWbX-hN95sv6ZKg3&amp;domain=embed&amp;dynamicStreaming=true&quot; base=&quot;http://admin.brightcove.com&quot; name=&quot;flashObj&quot; width=&quot;480&quot; height=&quot;270&quot; seamlesstabbing=&quot;false&quot; type=&quot;application/x-shockwave-flash&quot; allowFullScreen=&quot;true&quot; allowScriptAccess=&quot;always&quot; swLiveConnect=&quot;true&quot; pluginspage=&quot;http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash&quot;&gt;&lt;/embed&gt;&lt;/object&gt;
+
+
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Choosing a good team</title>
+   <link href="http://mostlycurious.com/productivity/2015/02/06/qualities-of-good-teams/"/>
+   <updated>2015-02-06T04:09:33-05:00</updated>
+   <id>http://blog.apps.npr.org/productivity/2015/02/06/qualities-of-good-teams</id>
+   <content type="html">&lt;p&gt;There&#39;s an opinion piece in the New York Times on &lt;a href=&quot;http://www.nytimes.com/2015/01/18/opinion/sunday/why-some-teams-are-smarter-than-others.html&quot;&gt;why some teams are smarter than others&lt;/a&gt;. The authors, gave a large number of teams a set of real-world challenges, and examined their performance.&lt;/p&gt;
+
+&lt;p&gt;Here are the insignificant factors:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;IQ scores&lt;/li&gt;
+&lt;li&gt;extroversion&lt;/li&gt;
+&lt;li&gt;motivation to contribute&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Here are the factors that did matter:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;no individual dominates the group discussion&lt;/li&gt;
+&lt;li&gt;number of women on the team&lt;/li&gt;
+&lt;li&gt;ability to read others&#39; emotions&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;That last point is interesting, because the authors found the same results, with remote teams.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;What makes teams smart must be not just the ability to read facial expressions, but a more general ability, known as “Theory of Mind,” to consider and keep track of what other people feel, know and believe.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Structured procrastination</title>
+   <link href="http://mostlycurious.com/productivity/2015/02/06/structured-procrastination/"/>
+   <updated>2015-02-06T03:50:13-05:00</updated>
+   <id>http://blog.apps.npr.org/productivity/2015/02/06/structured-procrastination</id>
+   <content type="html">&lt;blockquote&gt;&lt;p&gt;the procrastinator can be motivated to do difficult, timely and important tasks, as long as these tasks are a way of not doing something more important.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ecx.images-amazon.com/images/I/41Ylf6lZRvL._SX258_BO1,204,203,200_.jpg&quot; width=&quot;200&quot; height=&quot;300&quot;/&gt;&lt;/p&gt;
+
+&lt;p&gt;I found this a few years ago in graduate school, from a website called &lt;a href=&quot;http://structuredprocrastination.com/blog/&quot;&gt;structuredprocrastination&lt;/a&gt;. Of course I was looking for ways to get my work done. The author turned out to be a professor at the very school I was at!&lt;/p&gt;
+
+&lt;p&gt;I found a tip he wrote to be particularly useful:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Fifth, make To Do Lists that break up your tasks into smaller ones, so you can get the thrill of checking them off.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;I ended up paying $25 a year for an online To Do List, using &lt;a href=&quot;https://www.rememberthemilk.com&quot;&gt;Remember the Milk&lt;/a&gt;. For me, it does make alot of sense.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Leaving the Cult of Busy</title>
+   <link href="http://mostlycurious.com/productivity/2015/02/02/leaving-the-cult-of-busy/"/>
+   <updated>2015-02-02T03:59:24-05:00</updated>
+   <id>http://blog.apps.npr.org/productivity/2015/02/02/leaving-the-cult-of-busy</id>
+   <content type="html">&lt;p&gt;Dina Kaplan has an insightful artice aptly named &lt;a href=&quot;https://medium.com/thelist/the-cult-of-busy-bbb124caed51&quot;&gt;The Cult of Busy&lt;/a&gt;, which explores whether we are over-allocating our lives to busywork.&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt; If your normal is busy, it’s tough to sit quietly with your thoughts or to really feel what you’re feeling.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Guilty as charged.  I find the NYC subway on the way to the West Side YMCA to be my only reprieve.  This will continue to be true, as long as there is no WiFi on the moving train.&lt;/p&gt;
+
+&lt;p&gt;Dina provides one simple task that I&#39;ve distilled to leave the Cult of Busy:&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;You could set reasonable goals for each day, then head directly towards them.&lt;/p&gt;
+
+&lt;p&gt;If you’ve always wanted to read, find five minutes each day this week. Next week, find ten. Take it at your own pace.&lt;/p&gt;&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Virtual reality with the Unreal Engine 4</title>
+   <link href="http://mostlycurious.com/2015/02/01/virtual-reality-with-the-unreal-4-engine/"/>
+   <updated>2015-02-01T21:48:28-05:00</updated>
+   <id>http://blog.apps.npr.org/2015/02/01/virtual-reality-with-the-unreal-4-engine</id>
+   <content type="html">&lt;p&gt;The things software engineers can do with the &lt;a href=&quot;https://www.unrealengine.com/showcase?category=Film%20and%20Television&quot;&gt;Unreal Engine 4&lt;/a&gt; are amazing. Below is a still frame from a virtual home.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/2015-02-01-unreal-engine.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So the creator of the Unreal Engine is Epic Games.  Chinese company Tencent has a large 48.5% stake that costed &gt;$300 million.&lt;/p&gt;
+
+&lt;p&gt;Here is the high-definition video. Definitely looks like money well-spent.&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/Y6PQ19BEE24&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>First post from ghost</title>
+   <link href="http://mostlycurious.com/2015/02/01/first-post-from-ghost/"/>
+   <updated>2015-02-01T21:25:51-05:00</updated>
+   <id>http://blog.apps.npr.org/2015/02/01/first-post-from-ghost</id>
+   <content type="html">&lt;p&gt;Ghost looks great.&lt;/p&gt;
+
+&lt;p&gt;It looks alot more convenient to blog.  I had been using Jekyll hosted on &lt;a href=&quot;https://github.com/rpjb/rpjb.github.com&quot;&gt;Github&lt;/a&gt; to create a simple static website.&lt;/p&gt;
+
+&lt;p&gt;The key advantage of ghost was simply the quick preview of  the output when drafting in Ghost. Jekyll does have a frontend called &lt;a href=&quot;http://prose.io&quot;&gt;Prose&lt;/a&gt;, but there was a latency on the server end, that I found a bit challenging for the amount of typing errors I typically make.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Bill Dement The Father Of Sleep Medicine</title>
