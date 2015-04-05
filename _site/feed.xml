@@ -7,6 +7,38 @@
     <atom:link href="http://rpjb.github.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Cohens D Visualized</title>
+        <description>&lt;p&gt;Kristoffer Magnussen has a neat blog about statistics and psychology at &lt;a href=&quot;http://rpsychologist.com/d3/cohend/&quot;&gt;R &amp;lt;- Psychologist&lt;/a&gt;.  In particular, he has a very useful visualization of a metric called Cohen&#39;s d.  Even if you know what that is, it&#39;s very helpful to have a quick tool on hand without having to calculate anything.  All of the visualization appears to be made from &lt;a href=&quot;http://d3js.org&quot;&gt;d3.js&lt;/a&gt;, which is becoming a standard for showing your data.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/2015-04-03-cohen-d.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Apr 2015 00:00:00 -0400</pubDate>
+        <link>http://rpjb.github.com//science/2015/04/03/cohens-d-visualized/</link>
+        <guid isPermaLink="true">http://rpjb.github.com//science/2015/04/03/cohens-d-visualized/</guid>
+      </item>
+    
+      <item>
+        <title>My Matlab Files On Github</title>
+        <description>&lt;p&gt;Windows 8 has a nice shortcut, that&#39;s actually been on previous versions, but I&#39;ve just discovered:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Windows logo + p&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/2015-03-25-screen-options.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This one shortcut, by quickly allowing you to toggle between duplicating and extending across monitors, simultaneously kills two of my annoyances:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ever had to give a presentation and not be able to control your presentation view? (perhaps due to some ATI or nVIDIA driver that overrides Windows native display control)&lt;/li&gt;
+&lt;li&gt;Ever use Chrome remote desktop to a machine with dual monitors?&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sat, 28 Mar 2015 00:00:00 -0400</pubDate>
+        <link>http://rpjb.github.com//productivity/2015/03/28/my-matlab-files-on-github/</link>
+        <guid isPermaLink="true">http://rpjb.github.com//productivity/2015/03/28/my-matlab-files-on-github/</guid>
+      </item>
+    
+      <item>
         <title>Windows+p</title>
         <description>&lt;p&gt;Windows 8 has a nice shortcut, that&#39;s actually been on previous versions, but I&#39;ve just discovered:&lt;/p&gt;
 
@@ -181,39 +213,6 @@ The glass is manufactured by incubation in a bath of hot potassium solution. Sod
         <pubDate>Sun, 01 Feb 2015 21:48:28 -0500</pubDate>
         <link>http://rpjb.github.com//2015/02/01/virtual-reality-with-the-unreal-4-engine/</link>
         <guid isPermaLink="true">http://rpjb.github.com//2015/02/01/virtual-reality-with-the-unreal-4-engine/</guid>
-      </item>
-    
-      <item>
-        <title>First post from ghost</title>
-        <description>&lt;p&gt;Ghost looks great.&lt;/p&gt;
-
-&lt;p&gt;It looks alot more convenient to blog.  I had been using Jekyll hosted on &lt;a href=&quot;https://github.com/rpjb/rpjb.github.com&quot;&gt;Github&lt;/a&gt; to create a simple static website.&lt;/p&gt;
-
-&lt;p&gt;The key advantage of ghost was simply the quick preview of  the output when drafting in Ghost. Jekyll does have a frontend called &lt;a href=&quot;http://prose.io&quot;&gt;Prose&lt;/a&gt;, but there was a latency on the server end, that I found a bit challenging for the amount of typing errors I typically make.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 01 Feb 2015 21:25:51 -0500</pubDate>
-        <link>http://rpjb.github.com//2015/02/01/first-post-from-ghost/</link>
-        <guid isPermaLink="true">http://rpjb.github.com//2015/02/01/first-post-from-ghost/</guid>
-      </item>
-    
-      <item>
-        <title>Bill Dement The Father Of Sleep Medicine</title>
-        <description>&lt;p&gt;Nick Weiler has a new piece in the Stanford Magazine dedicated to the study of sleep (&lt;a href=&quot;https://alumni.stanford.edu/get/page/magazine/article/?article_id=72890&quot;&gt;A Bedtime Story&lt;/a&gt;). Nick presents the career of the key protagonist, &lt;a href=&quot;http://en.wikipedia.org/wiki/William_C._Dement&quot;&gt;Bill Dement&lt;/a&gt;, in entertaining fashion. Professor Dement created the very first sleep laboratory at Stanford in 1970. He studied the relationship between REM sleep and dreams, and was the first to classify the various sleep states in humans.&lt;/p&gt;
-
-&lt;p&gt;To do all of this work, Professor Dement had to be able to do continuous physiological monitoring during sleep. Back in the day, this was a non-trivial affair.  With the Sheepdog Sciences headband today, we believe Dr. Dement would have been able to do the majority of his work at the subjects&#39; homes.  This would have reduced the experimental noise arising from the stress of sleeping in a research lab, and probably increased the number of participants in his studies.&lt;/p&gt;
-
-&lt;p&gt;Some interesting tidbits:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;We don&#39;t know what the &quot;right&quot; amount of sleep for humans is.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;40 million Americans suffered from chronic sleep disorder (1992 study).&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;24 percent of men in an epidemiology study suffered sleep apnea&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Mon, 08 Sep 2014 00:00:00 -0400</pubDate>
-        <link>http://rpjb.github.com//sleep/2014/09/08/bill-dement-the-father-of-sleep-medicine/</link>
-        <guid isPermaLink="true">http://rpjb.github.com//sleep/2014/09/08/bill-dement-the-father-of-sleep-medicine/</guid>
       </item>
     
   </channel>
