@@ -19,19 +19,7 @@
     
       <item>
         <title>My Matlab Files On Github</title>
-        <description>&lt;p&gt;Windows 8 has a nice shortcut, that&#39;s actually been on previous versions, but I&#39;ve just discovered:&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;Windows logo + p&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/posts/2015-03-25-screen-options.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This one shortcut, by quickly allowing you to toggle between duplicating and extending across monitors, simultaneously kills two of my annoyances:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Ever had to give a presentation and not be able to control your presentation view? (perhaps due to some ATI or nVIDIA driver that overrides Windows native display control)&lt;/li&gt;
-&lt;li&gt;Ever use Chrome remote desktop to a machine with dual monitors?&lt;/li&gt;
-&lt;/ul&gt;
-
+        <description>&lt;p&gt;Over the next few weeks, I&#39;ll be distributing various Matlab programs that I&#39;ve used to analyze scientific data.&lt;/p&gt;
 </description>
         <pubDate>Sat, 28 Mar 2015 00:00:00 -0400</pubDate>
         <link>http://rpjb.github.com//productivity/2015/03/28/my-matlab-files-on-github/</link>

@@ -2,21 +2,10 @@
 layout: post
 published: true
 author: robert barretto
-description: 
+description: useful code for image analysis
 categories: 
   - productivity
-image: "/img/posts/2015-03-25-screen-options.png"
+image: 
 ---
 
-Windows 8 has a nice shortcut, that's actually been on previous versions, but I've just discovered:
-
-`Windows logo + p`
-
-
-![](/img/posts/2015-03-25-screen-options.png)
-
-
-This one shortcut, by quickly allowing you to toggle between duplicating and extending across monitors, simultaneously kills two of my annoyances:
-
-* Ever had to give a presentation and not be able to control your presentation view? (perhaps due to some ATI or nVIDIA driver that overrides Windows native display control) 
-* Ever use Chrome remote desktop to a machine with dual monitors?
+Over the next few weeks, I'll be distributing various Matlab programs that I've used to analyze scientific data.
