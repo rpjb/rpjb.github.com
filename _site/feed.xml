@@ -7,14 +7,27 @@
     <atom:link href="http://rpjb.github.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Cohens D Visualized</title>
+        <title>Mostlycurious Search</title>
+        <description>&lt;p&gt;Mostlycurious.com is a static Jekyll site hosted on Github.  This has been pretty convenient compared to my prior efforts, which have included Posterous, Tumblr, Ghost. One thing I have always wanted to include was a site-specific search bar.&lt;/p&gt;
+
+&lt;p&gt;This is not a new problem, and a quick search led me to a previously answered &lt;a href=&quot;http://stackoverflow.com/questions/10131541/how-can-i-add-a-site-search-feature-to-a-jekyll-blog&quot;&gt;Stackoverflow post&lt;/a&gt;. I decided to try &lt;a href=&quot;https://cse.google.com/&quot;&gt;Google custom search&lt;/a&gt;, because it seems pretty easy for a first attempt (see below).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/2015-04-11-google-custom-search.png&quot; alt=&quot;Output script&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 11 Apr 2015 00:00:00 -0400</pubDate>
+        <link>http://rpjb.github.com//2015/04/11/mostlycurious-search/</link>
+        <guid isPermaLink="true">http://rpjb.github.com//2015/04/11/mostlycurious-search/</guid>
+      </item>
+    
+      <item>
+        <title>Cohen&#39;s D Visualized</title>
         <description>&lt;p&gt;Kristoffer Magnussen has a neat blog about statistics and psychology at &lt;a href=&quot;http://rpsychologist.com/d3/cohend/&quot;&gt;R &amp;lt;- Psychologist&lt;/a&gt;.  In particular, he has a very useful visualization of a metric called Cohen&#39;s d.  Even if you know what that is, it&#39;s very helpful to have a quick tool on hand without having to calculate anything.  All of the visualization appears to be made from &lt;a href=&quot;http://d3js.org&quot;&gt;d3.js&lt;/a&gt;, which is becoming a standard for showing your data.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/posts/2015-04-03-cohen-d.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 03 Apr 2015 00:00:00 -0400</pubDate>
-        <link>http://rpjb.github.com//science/2015/04/03/cohens-d-visualized/</link>
-        <guid isPermaLink="true">http://rpjb.github.com//science/2015/04/03/cohens-d-visualized/</guid>
+        <link>http://rpjb.github.com//science/2015/04/03/cohen%27s-d-visualized/</link>
+        <guid isPermaLink="true">http://rpjb.github.com//science/2015/04/03/cohen%27s-d-visualized/</guid>
       </item>
     
       <item>
@@ -181,26 +194,6 @@ The glass is manufactured by incubation in a bath of hot potassium solution. Sod
         <pubDate>Mon, 02 Feb 2015 03:59:24 -0500</pubDate>
         <link>http://rpjb.github.com//productivity/2015/02/02/leaving-the-cult-of-busy/</link>
         <guid isPermaLink="true">http://rpjb.github.com//productivity/2015/02/02/leaving-the-cult-of-busy/</guid>
-      </item>
-    
-      <item>
-        <title>Virtual reality with the Unreal Engine 4</title>
-        <description>&lt;p&gt;The things software engineers can do with the &lt;a href=&quot;https://www.unrealengine.com/showcase?category=Film%20and%20Television&quot;&gt;Unreal Engine 4&lt;/a&gt; are amazing. Below is a still frame from a virtual home.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/posts/2015-02-01-unreal-engine.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So the creator of the Unreal Engine is Epic Games.  Chinese company Tencent has a large 48.5% stake that costed &gt;$300 million.&lt;/p&gt;
-
-&lt;p&gt;Here is the high-definition video. Definitely looks like money well-spent.&lt;/p&gt;
-
-&lt;iframe width=&quot;640&quot; height=&quot;390&quot; src=&quot;https://www.youtube.com/embed/Y6PQ19BEE24&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
-
-
-</description>
-        <pubDate>Sun, 01 Feb 2015 21:48:28 -0500</pubDate>
-        <link>http://rpjb.github.com//2015/02/01/virtual-reality-with-the-unreal-4-engine/</link>
-        <guid isPermaLink="true">http://rpjb.github.com//2015/02/01/virtual-reality-with-the-unreal-4-engine/</guid>
       </item>
     
   </channel>
