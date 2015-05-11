@@ -4,14 +4,31 @@
  <title>Mostly Curious Blog</title>
  <link href="http://mostlycurious.com/atom.xml" rel="self"/>
  <link href="http://mostlycurious.com/"/>
- <updated>2015-04-28T18:55:12-07:00</updated>
+ <updated>2015-05-11T01:20:54-04:00</updated>
  <id>http://mostlycurious.com/</id>
 
  
  <entry>
+   <title>Withings And Nest</title>
+   <link href="http://mostlycurious.com/sleep/2015/05/11/withings-and-nest/"/>
+   <updated>2015-05-11T00:00:00-04:00</updated>
+   <id>http://blog.apps.npr.org/sleep/2015/05/11/withings-and-nest</id>
+   <content type="html">&lt;p&gt;Temperature is a key environmental factor in getting the best sleep. If it is too hot or too cold, people won&#39;t be able to sleep. They&#39;ll look to the cooler side of the pillow.  They&#39;ll twist and turn. It would be much easier if the room could alter bedroom temperature seamlessly through the night.&lt;/p&gt;
+
+&lt;p&gt;Withings has a sleep detector, and Nest has a thermostat. But both devices are not just the traditional hardware that have existed for the last 50 years. They have wireless communications, and can talk to each other.&lt;/p&gt;
+
+&lt;p&gt;So what&#39;s the software magic?&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;When Aura has detected that a user is asleep, it will send a notification to your Nest thermostat to adjust the temperature to fall between 64.4-68° Fahrenheit, the best range for sleeping. When Aura senses that you haven woken up, it will communicate this information to Nest so that the temperature can return back to normal.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;It will be interesting to examine how users&#39; quality of sleep improves over time with this system. After all, it is the ultimate test of this new product enhancement.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>How To Start A Startup</title>
    <link href="http://mostlycurious.com/organization/2015/04/25/how-to-start-a-startup/"/>
-   <updated>2015-04-25T00:00:00-07:00</updated>
+   <updated>2015-04-25T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/organization/2015/04/25/how-to-start-a-startup</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://startupclass.samaltman.com/courses/lec01/&quot;&gt;Lecture 1: How to Start a Startup&lt;/a&gt;&lt;/p&gt;
 
@@ -105,7 +122,7 @@ at least that’s what it feels like to me and most CEOs I know. If you want to 
  <entry>
    <title>How To Operate</title>
    <link href="http://mostlycurious.com/organization/2015/04/25/how-to-operate/"/>
-   <updated>2015-04-25T00:00:00-07:00</updated>
+   <updated>2015-04-25T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/organization/2015/04/25/how-to-operate</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://startupclass.samaltman.com/courses/lec14&quot;&gt;Lecture 14: How to Operate&lt;/a&gt;&lt;/p&gt;
 
@@ -152,7 +169,7 @@ at least that’s what it feels like to me and most CEOs I know. If you want to 
  <entry>
    <title>Negotiation Literature</title>
    <link href="http://mostlycurious.com/organization/2015/04/13/negotiation-literature/"/>
-   <updated>2015-04-13T00:00:00-07:00</updated>
+   <updated>2015-04-13T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/organization/2015/04/13/negotiation-literature</id>
    <content type="html">&lt;p&gt;Here are three books that help their readers navigate the process of negotiating.&lt;/p&gt;
 
@@ -173,7 +190,7 @@ at least that’s what it feels like to me and most CEOs I know. If you want to 
  <entry>
    <title>Mostlycurious Search</title>
    <link href="http://mostlycurious.com/2015/04/11/mostlycurious-search/"/>
-   <updated>2015-04-11T00:00:00-07:00</updated>
+   <updated>2015-04-11T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/2015/04/11/mostlycurious-search</id>
    <content type="html">&lt;p&gt;Mostlycurious.com is a static Jekyll site hosted on Github.  This has been pretty convenient compared to my prior efforts, which have included Posterous, Tumblr, Ghost. One thing I have always wanted to include was a site-specific search bar.&lt;/p&gt;
 
@@ -188,7 +205,7 @@ at least that’s what it feels like to me and most CEOs I know. If you want to 
  <entry>
    <title>Cohen's D Visualized</title>
    <link href="http://mostlycurious.com/science/2015/04/03/cohen%27s-d-visualized/"/>
-   <updated>2015-04-03T00:00:00-07:00</updated>
+   <updated>2015-04-03T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/science/2015/04/03/cohen's-d-visualized</id>
    <content type="html">&lt;p&gt;Kristoffer Magnussen has a neat blog about statistics and psychology at &lt;a href=&quot;http://rpsychologist.com/d3/cohend/&quot;&gt;R &amp;lt;- Psychologist&lt;/a&gt;.  In particular, he has a very useful visualization of a metric called Cohen&#39;s d.  Even if you know what that is, it&#39;s very helpful to have a quick tool on hand without having to calculate anything.  All of the visualization appears to be made from &lt;a href=&quot;http://d3js.org&quot;&gt;d3.js&lt;/a&gt;, which is becoming a standard for showing your data.&lt;/p&gt;
 
@@ -199,7 +216,7 @@ at least that’s what it feels like to me and most CEOs I know. If you want to 
  <entry>
    <title>My Matlab Files On Github</title>
    <link href="http://mostlycurious.com/productivity/2015/03/28/my-matlab-files-on-github/"/>
-   <updated>2015-03-28T00:00:00-07:00</updated>
+   <updated>2015-03-28T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/productivity/2015/03/28/my-matlab-files-on-github</id>
    <content type="html">&lt;p&gt;Over the next few weeks, I&#39;ll be distributing various Matlab programs that I&#39;ve used to analyze scientific data.&lt;/p&gt;
 </content>
@@ -208,7 +225,7 @@ at least that’s what it feels like to me and most CEOs I know. If you want to 
  <entry>
    <title>Windows+p</title>
    <link href="http://mostlycurious.com/productivity/2015/03/25/windows%2BP/"/>
-   <updated>2015-03-25T00:00:00-07:00</updated>
+   <updated>2015-03-25T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/productivity/2015/03/25/windows+P</id>
    <content type="html">&lt;p&gt;Windows 8 has a nice shortcut, that&#39;s actually been on previous versions, but I&#39;ve just discovered:&lt;/p&gt;
 
@@ -229,7 +246,7 @@ at least that’s what it feels like to me and most CEOs I know. If you want to 
  <entry>
    <title>Cognitive behavioral therapy for insomnia - Sleepio</title>
    <link href="http://mostlycurious.com/sleep/2015/03/02/cognitive-behavioral-therapy-for-insomnia-sleepio/"/>
-   <updated>2015-03-02T22:42:14-08:00</updated>
+   <updated>2015-03-02T22:42:14-05:00</updated>
    <id>http://blog.apps.npr.org/sleep/2015/03/02/cognitive-behavioral-therapy-for-insomnia-sleepio</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/posts/2015-03-02-jawbone-email-sleepio.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -254,7 +271,7 @@ at least that’s what it feels like to me and most CEOs I know. If you want to 
  <entry>
    <title>Multitasking hurts your effective IQ</title>
    <link href="http://mostlycurious.com/learning/productivity/2015/02/16/multitasking-hurts-your-effective-iq/"/>
-   <updated>2015-02-16T20:17:46-08:00</updated>
+   <updated>2015-02-16T20:17:46-05:00</updated>
    <id>http://blog.apps.npr.org/learning/productivity/2015/02/16/multitasking-hurts-your-effective-iq</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.theguardian.com/science/2015/jan/18/modern-world-bad-for-brain-daniel-j-levitin-organized-mind-information-overload&quot;&gt;The Guardian has an article by Daniel Levitan&lt;/a&gt; that describes the negatives of multitasking.&lt;/p&gt;
 
@@ -277,7 +294,7 @@ at least that’s what it feels like to me and most CEOs I know. If you want to 
  <entry>
    <title>Corning Gorilla Glass</title>
    <link href="http://mostlycurious.com/2015/02/08/corning-gorilla-glass/"/>
-   <updated>2015-02-08T03:08:05-08:00</updated>
+   <updated>2015-02-08T03:08:05-05:00</updated>
    <id>http://blog.apps.npr.org/2015/02/08/corning-gorilla-glass</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.corninggorillaglass.com/&quot;&gt;Corning Gorilla Glass&lt;/a&gt; is the surface for most typical cellphones.&lt;/p&gt;
 
@@ -296,7 +313,7 @@ The glass is manufactured by incubation in a bath of hot potassium solution. Sod
  <entry>
    <title>Choosing a good team</title>
    <link href="http://mostlycurious.com/productivity/2015/02/06/qualities-of-good-teams/"/>
-   <updated>2015-02-06T04:09:33-08:00</updated>
+   <updated>2015-02-06T04:09:33-05:00</updated>
    <id>http://blog.apps.npr.org/productivity/2015/02/06/qualities-of-good-teams</id>
    <content type="html">&lt;p&gt;There&#39;s an opinion piece in the New York Times on &lt;a href=&quot;http://www.nytimes.com/2015/01/18/opinion/sunday/why-some-teams-are-smarter-than-others.html&quot;&gt;why some teams are smarter than others&lt;/a&gt;. The authors, gave a large number of teams a set of real-world challenges, and examined their performance.&lt;/p&gt;
 
@@ -327,7 +344,7 @@ The glass is manufactured by incubation in a bath of hot potassium solution. Sod
  <entry>
    <title>Structured procrastination</title>
    <link href="http://mostlycurious.com/productivity/2015/02/06/structured-procrastination/"/>
-   <updated>2015-02-06T03:50:13-08:00</updated>
+   <updated>2015-02-06T03:50:13-05:00</updated>
    <id>http://blog.apps.npr.org/productivity/2015/02/06/structured-procrastination</id>
    <content type="html">&lt;blockquote&gt;&lt;p&gt;the procrastinator can be motivated to do difficult, timely and important tasks, as long as these tasks are a way of not doing something more important.&lt;/p&gt;&lt;/blockquote&gt;
 
@@ -346,7 +363,7 @@ The glass is manufactured by incubation in a bath of hot potassium solution. Sod
  <entry>
    <title>Leaving the Cult of Busy</title>
    <link href="http://mostlycurious.com/productivity/2015/02/02/leaving-the-cult-of-busy/"/>
-   <updated>2015-02-02T03:59:24-08:00</updated>
+   <updated>2015-02-02T03:59:24-05:00</updated>
    <id>http://blog.apps.npr.org/productivity/2015/02/02/leaving-the-cult-of-busy</id>
    <content type="html">&lt;p&gt;Dina Kaplan has an insightful artice aptly named &lt;a href=&quot;https://medium.com/thelist/the-cult-of-busy-bbb124caed51&quot;&gt;The Cult of Busy&lt;/a&gt;, which explores whether we are over-allocating our lives to busywork.&lt;/p&gt;
 
@@ -365,7 +382,7 @@ The glass is manufactured by incubation in a bath of hot potassium solution. Sod
  <entry>
    <title>Virtual reality with the Unreal Engine 4</title>
    <link href="http://mostlycurious.com/2015/02/01/virtual-reality-with-the-unreal-4-engine/"/>
-   <updated>2015-02-01T21:48:28-08:00</updated>
+   <updated>2015-02-01T21:48:28-05:00</updated>
    <id>http://blog.apps.npr.org/2015/02/01/virtual-reality-with-the-unreal-4-engine</id>
    <content type="html">&lt;p&gt;The things software engineers can do with the &lt;a href=&quot;https://www.unrealengine.com/showcase?category=Film%20and%20Television&quot;&gt;Unreal Engine 4&lt;/a&gt; are amazing. Below is a still frame from a virtual home.&lt;/p&gt;
 
@@ -385,7 +402,7 @@ The glass is manufactured by incubation in a bath of hot potassium solution. Sod
  <entry>
    <title>First post from ghost</title>
    <link href="http://mostlycurious.com/2015/02/01/first-post-from-ghost/"/>
-   <updated>2015-02-01T21:25:51-08:00</updated>
+   <updated>2015-02-01T21:25:51-05:00</updated>
    <id>http://blog.apps.npr.org/2015/02/01/first-post-from-ghost</id>
    <content type="html">&lt;p&gt;Ghost looks great.&lt;/p&gt;
 
@@ -398,7 +415,7 @@ The glass is manufactured by incubation in a bath of hot potassium solution. Sod
  <entry>
    <title>Bill Dement The Father Of Sleep Medicine</title>
    <link href="http://mostlycurious.com/sleep/2014/09/08/bill-dement-the-father-of-sleep-medicine/"/>
-   <updated>2014-09-08T00:00:00-07:00</updated>
+   <updated>2014-09-08T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/sleep/2014/09/08/bill-dement-the-father-of-sleep-medicine</id>
    <content type="html">&lt;p&gt;Nick Weiler has a new piece in the Stanford Magazine dedicated to the study of sleep (&lt;a href=&quot;https://alumni.stanford.edu/get/page/magazine/article/?article_id=72890&quot;&gt;A Bedtime Story&lt;/a&gt;). Nick presents the career of the key protagonist, &lt;a href=&quot;http://en.wikipedia.org/wiki/William_C._Dement&quot;&gt;Bill Dement&lt;/a&gt;, in entertaining fashion. Professor Dement created the very first sleep laboratory at Stanford in 1970. He studied the relationship between REM sleep and dreams, and was the first to classify the various sleep states in humans.&lt;/p&gt;
 
@@ -418,7 +435,7 @@ The glass is manufactured by incubation in a bath of hot potassium solution. Sod
  <entry>
    <title>Teachers Can Cheat Too</title>
    <link href="http://mostlycurious.com/learning/2014/09/03/teachers-can-cheat-too/"/>
-   <updated>2014-09-03T00:00:00-07:00</updated>
+   <updated>2014-09-03T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/learning/2014/09/03/teachers-can-cheat-too</id>
    <content type="html">&lt;p&gt;Education is becoming an increasingly high stress industry in America. &lt;a href=&quot;http://www.newyorker.com/magazine/2014/07/21/wrong-answer?&quot;&gt;Wrong Answers?&lt;/a&gt; in July&#39;s New Yorker details a school that cheated for its students.&lt;/p&gt;
 
@@ -431,7 +448,7 @@ The glass is manufactured by incubation in a bath of hot potassium solution. Sod
  <entry>
    <title>Blue Light Danger</title>
    <link href="http://mostlycurious.com/sleep/2014/09/03/blue-light-danger/"/>
-   <updated>2014-09-03T00:00:00-07:00</updated>
+   <updated>2014-09-03T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/sleep/2014/09/03/blue-light-danger</id>
    <content type="html">&lt;p&gt;There&#39;s a recent &lt;a href=&quot;http://gigaom.com/2014/09/01/what-is-the-blue-light-from-our-screens-really-doing-to-our-eyes&quot;&gt;article on the effects of blue light on our bodies&lt;/a&gt;. The basic ideas are:&lt;/p&gt;
 
@@ -447,7 +464,7 @@ The glass is manufactured by incubation in a bath of hot potassium solution. Sod
  <entry>
    <title>Light As A Type Of Medication</title>
    <link href="http://mostlycurious.com/sleep/2014/08/18/light-as-a-type-of-medication/"/>
-   <updated>2014-08-18T00:00:00-07:00</updated>
+   <updated>2014-08-18T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/sleep/2014/08/18/light-as-a-type-of-medication</id>
    <content type="html">&lt;p&gt;I&#39;m a postdoc and sometimes have the misfortune of having to work deep into the night to get my job done. I&#39;ve always wondered how cool it would be to not get sleepy or hungry, and just keep going. Is there anything I could do doing what I want to be doing?&lt;/p&gt;
 
@@ -465,7 +482,7 @@ The glass is manufactured by incubation in a bath of hot potassium solution. Sod
  <entry>
    <title>Sleep Inertia</title>
    <link href="http://mostlycurious.com/sleep/learning/2014/05/13/sleep-inertia/"/>
-   <updated>2014-05-13T00:00:00-07:00</updated>
+   <updated>2014-05-13T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/sleep/learning/2014/05/13/sleep-inertia</id>
    <content type="html">&lt;p&gt;An &lt;a href=&quot;http://www.newyorker.com/online/blogs/elements/2013/12/science-of-sleep-trouble-with-snooze-buttons.html&quot;&gt;article from the New Yorker by Maria Konnikova&lt;/a&gt; has an interesting introduction to the concept of sleep inertia. The time between the moment you wake up in the morning until the moment you are really awake is called sleep inertia.  And it can be really bad.  It turns out that our brains take some time to get into awake mode, and as a result our memory, and ability to perform are negatively effected.&lt;/p&gt;
 
@@ -480,7 +497,7 @@ The glass is manufactured by incubation in a bath of hot potassium solution. Sod
  <entry>
    <title>Bruce Alberts Avoids The Pitfalls In Science</title>
    <link href="http://mostlycurious.com/2014/04/25/bruce-alberts-avoids-the-pitfalls-in-science/"/>
-   <updated>2014-04-25T00:00:00-07:00</updated>
+   <updated>2014-04-25T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/2014/04/25/bruce-alberts-avoids-the-pitfalls-in-science</id>
    <content type="html">&lt;p&gt;The following are excerpts from a &lt;a href=&quot;http://www.nature.com/nature/journal/v431/n7012/full/4311041a.html&quot;&gt;small essay&lt;/a&gt; by Bruce Alberts (the author of &lt;a href=&quot;http://www.amazon.com/Molecular-Biology-Cell-Bruce-Alberts/dp/0815341059&quot;&gt;Molecular Biology of the Cell&lt;/a&gt;).&lt;/p&gt;
 
@@ -501,7 +518,7 @@ The glass is manufactured by incubation in a bath of hot potassium solution. Sod
  <entry>
    <title>Airline Fare Predictors And User Preferences</title>
    <link href="http://mostlycurious.com/2014/04/21/airline-fare-predictors-and-user-preferences/"/>
-   <updated>2014-04-21T00:00:00-07:00</updated>
+   <updated>2014-04-21T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/2014/04/21/airline-fare-predictors-and-user-preferences</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://fivethirtyeight.com/features/when-to-hold-out-for-a-lower-airfare/?utm_source=digg&amp;amp;utm_medium=email&quot;&gt;Kaiser Fung has a great article&lt;/a&gt; on using Big Data to predict airfare prices. He gives a great overview of Bing (Farecast) and Kayak regarding how they try to provide value for their users.&lt;/p&gt;
 
@@ -522,7 +539,7 @@ A customer may want to be certain about a Kayak buy signal (high true positive r
  <entry>
    <title>Changing Taste Preference For Electric Eels</title>
    <link href="http://mostlycurious.com/2014/04/12/changing-taste-preference-for-electric-eels/"/>
-   <updated>2014-04-12T00:00:00-07:00</updated>
+   <updated>2014-04-12T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/2014/04/12/changing-taste-preference-for-electric-eels</id>
    <content type="html">&lt;p&gt;Here&#39;s a youtube video of an alligator trying to eat an electric eel.&lt;/p&gt;
 
@@ -544,7 +561,7 @@ A customer may want to be certain about a Kayak buy signal (high true positive r
  <entry>
    <title>Cleaning Unfinished Wood</title>
    <link href="http://mostlycurious.com/2014/04/10/cleaning-unfinished-wood/"/>
-   <updated>2014-04-10T00:00:00-07:00</updated>
+   <updated>2014-04-10T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/2014/04/10/cleaning-unfinished-wood</id>
    <content type="html">&lt;p&gt;I&#39;ve been looking for a good answer to cleaning unfinished wood.
 &lt;a href=&quot;https://answers.yahoo.com/question/index?qid=20091129101828AAyhO4F&quot;&gt;Yahoo answers&lt;/a&gt; has a good response:&lt;/p&gt;
@@ -556,7 +573,7 @@ A customer may want to be certain about a Kayak buy signal (high true positive r
  <entry>
    <title>Optimal Sleep Amount</title>
    <link href="http://mostlycurious.com/sleep/2014/04/02/optimal-sleep-amount/"/>
-   <updated>2014-04-02T00:00:00-07:00</updated>
+   <updated>2014-04-02T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/sleep/2014/04/02/optimal-sleep-amount</id>
    <content type="html">&lt;p&gt;There&#39;s an article on Quora asking &lt;a href=&quot;http://www.quora.com/Sleep/How-can-I-determine-what-my-personal-basal-sleep-requirement-is&quot;&gt;&quot;How can I determine what my personal basal sleep requirement is?&quot;&lt;/a&gt; The short answer is 7-9 hours of sleep.&lt;/p&gt;
 
@@ -573,7 +590,7 @@ A customer may want to be certain about a Kayak buy signal (high true positive r
  <entry>
    <title>Solarized Colors</title>
    <link href="http://mostlycurious.com/web/2014/03/22/solarized-colors/"/>
-   <updated>2014-03-22T00:00:00-07:00</updated>
+   <updated>2014-03-22T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/web/2014/03/22/solarized-colors</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/posts/2014-03-22-solarized.png&quot; height=&quot;200&quot; width=&quot;200&quot; alt=&quot;Solarized&quot; /&gt;&lt;/p&gt;
 
@@ -588,7 +605,7 @@ A customer may want to be certain about a Kayak buy signal (high true positive r
  <entry>
    <title>Start School Later</title>
    <link href="http://mostlycurious.com/sleep/learning/2014/03/16/Start-school-later/"/>
-   <updated>2014-03-16T00:00:00-07:00</updated>
+   <updated>2014-03-16T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/sleep/learning/2014/03/16/Start-school-later</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/posts/2014-03-16-clock.jpeg&quot; alt=&quot;Set your alarm later&quot; /&gt;&lt;/p&gt;
 
@@ -607,7 +624,7 @@ A customer may want to be certain about a Kayak buy signal (high true positive r
  <entry>
    <title>Too much data</title>
    <link href="http://mostlycurious.com/2014/02/19/too-much-data/"/>
-   <updated>2014-02-19T00:00:00-08:00</updated>
+   <updated>2014-02-19T00:00:00-05:00</updated>
    <id>http://blog.apps.npr.org/2014/02/19/too-much-data</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/posts/2014-02-19-resonate.png&quot; alt=&quot;Resonate, by Nancy Duarte&quot; /&gt;&lt;/p&gt;
 
@@ -621,7 +638,7 @@ The problem is this: no spreadsheet, no bibliography and no list of resources is
  <entry>
    <title>the Sheepdog Sciences word cloud</title>
    <link href="http://mostlycurious.com/2014/01/31/sheepdog-wordcloud/"/>
-   <updated>2014-01-31T00:00:00-08:00</updated>
+   <updated>2014-01-31T00:00:00-05:00</updated>
    <id>http://blog.apps.npr.org/2014/01/31/sheepdog-wordcloud</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/posts/2014-01-31-sds-word-cloud.jpg&quot; alt=&quot;Sheepdog Sciences word cloud&quot; /&gt;&lt;/p&gt;
 
@@ -632,7 +649,7 @@ The problem is this: no spreadsheet, no bibliography and no list of resources is
  <entry>
    <title>Digital enhancements</title>
    <link href="http://mostlycurious.com/2013/11/19/photoshop/"/>
-   <updated>2013-11-19T00:00:00-08:00</updated>
+   <updated>2013-11-19T00:00:00-05:00</updated>
    <id>http://blog.apps.npr.org/2013/11/19/photoshop</id>
    <content type="html">&lt;p&gt;&quot;&lt;a href=&quot;http://www.youtube.com/watch?v=17j5QzF3kqE&amp;amp;&quot;&gt;Body Evolution - Model Before and After&lt;/a&gt;&quot;
 &lt;img src=&quot;/img/posts/2013-11-19-before.png&quot; alt=&quot;Before&quot; /&gt;
@@ -643,7 +660,7 @@ The problem is this: no spreadsheet, no bibliography and no list of resources is
  <entry>
    <title>How we expect to get rich</title>
    <link href="http://mostlycurious.com/2013/11/14/getlucky/"/>
-   <updated>2013-11-14T00:00:00-08:00</updated>
+   <updated>2013-11-14T00:00:00-05:00</updated>
    <id>http://blog.apps.npr.org/2013/11/14/getlucky</id>
    <content type="html">&lt;p&gt;Ramit Sethi has a blog called &quot;&lt;a href=&quot;http://www.iwillteachyoutoberich.com&quot;&gt;I Will Teach You to Be Rich&lt;/a&gt;&quot;, which provides aton of interesting information about maybe not how to get rich, but how to make your skills work for you.&lt;/p&gt;
 
@@ -655,7 +672,7 @@ The problem is this: no spreadsheet, no bibliography and no list of resources is
  <entry>
    <title>Market research</title>
    <link href="http://mostlycurious.com/2013/11/11/marketresearch/"/>
-   <updated>2013-11-11T00:00:00-08:00</updated>
+   <updated>2013-11-11T00:00:00-05:00</updated>
    <id>http://blog.apps.npr.org/2013/11/11/marketresearch</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/posts/2013-11-12-delta-twitter.png&quot; alt=&quot;Delta&#39;s Twitter feed&quot; /&gt;
 &lt;img src=&quot;/img/posts/2013-11-12-delta-united.png&quot; alt=&quot;Delta / United stock prices year to date&quot; /&gt;&lt;/p&gt;
@@ -665,7 +682,7 @@ The problem is this: no spreadsheet, no bibliography and no list of resources is
  <entry>
    <title>I like pig butts</title>
    <link href="http://mostlycurious.com/2013/11/10/pig-butts/"/>
-   <updated>2013-11-10T00:00:00-08:00</updated>
+   <updated>2013-11-10T00:00:00-05:00</updated>
    <id>http://blog.apps.npr.org/2013/11/10/pig-butts</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/posts/2013-11-11-pig-butts.png&quot; alt=&quot;I like pig butts&quot; /&gt;
 &lt;a href=&quot;https://www.tanga.com/deals/81ac27831d6a/i-like-pig-butts-t-shirt&quot;&gt;Purchase from tanga&lt;/a&gt;&lt;/p&gt;
@@ -675,7 +692,7 @@ The problem is this: no spreadsheet, no bibliography and no list of resources is
  <entry>
    <title>New dell laptop that smells awful</title>
    <link href="http://mostlycurious.com/2013/11/07/Dell-cat-pee/"/>
-   <updated>2013-11-07T00:00:00-08:00</updated>
+   <updated>2013-11-07T00:00:00-05:00</updated>
    <id>http://blog.apps.npr.org/2013/11/07/Dell-cat-pee</id>
    <content type="html">&lt;p&gt;This is a great find by my co-founder Alex. There&#39;s a &lt;a href=&quot;http://en.community.dell.com/support-forums/laptop/f/3518/t/19512174.aspx&quot;&gt;Dell forum thread&lt;/a&gt; that concerns new laptop purchases, that have rather smelly palm rests.&lt;/p&gt;
 
@@ -706,7 +723,7 @@ brought the cat into work and it urinated on the floor&quot;&lt;/p&gt;
  <entry>
    <title>Unsubscribe to The Children's Place</title>
    <link href="http://mostlycurious.com/2013/10/27/Best-Unsubscribe-Page/"/>
-   <updated>2013-10-27T00:00:00-07:00</updated>
+   <updated>2013-10-27T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/2013/10/27/Best-Unsubscribe-Page</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/posts/2013-10-27-childrensplaceunsubscribe.png&quot; alt=&quot;Unsubscribe screenshot. (from The Children&#39;s Place)&quot; /&gt;
 When a visitor unsubscribes to your website, it&#39;s never a good thing. But at least one can be light-hearted about it.&lt;/p&gt;
@@ -716,7 +733,7 @@ When a visitor unsubscribes to your website, it&#39;s never a good thing. But at
  <entry>
    <title>Calorie counting at the Outback Steakhouse</title>
    <link href="http://mostlycurious.com/2013/09/14/outback/"/>
-   <updated>2013-09-14T00:00:00-07:00</updated>
+   <updated>2013-09-14T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/2013/09/14/outback</id>
    <content type="html">&lt;p&gt;Ever since college in Champaign-Urbana, I&#39;ve been a big fan of the Bloomin&#39; Onion at the Outback Steakhouse. Nestled in the middle of nowhere far far away from campus, my roommates and I would go there every few months for dinner.&lt;/p&gt;
 
@@ -735,7 +752,7 @@ When a visitor unsubscribes to your website, it&#39;s never a good thing. But at
  <entry>
    <title>Going for distance</title>
    <link href="http://mostlycurious.com/2013/06/23/going-for-distance/"/>
-   <updated>2013-06-23T00:00:00-07:00</updated>
+   <updated>2013-06-23T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/2013/06/23/going-for-distance</id>
    <content type="html">&lt;p&gt;On my last trip to the Philippines, I came across an interesting seafood restaurant. As I walked in, I was greeted by two statues of men posing as they urinated into a koi pond.
 &lt;img src=&quot;/img/posts/2013-06-23-statue1.jpg&quot; alt=&quot;Arch back for optimal trajectory?&quot; /&gt;
@@ -746,7 +763,7 @@ When a visitor unsubscribes to your website, it&#39;s never a good thing. But at
  <entry>
    <title>Old guys can still play</title>
    <link href="http://mostlycurious.com/2013/04/11/David-Beckham-still-runs/"/>
-   <updated>2013-04-11T00:00:00-07:00</updated>
+   <updated>2013-04-11T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/2013/04/11/David-Beckham-still-runs</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/posts/2013-04-11-beckham-runs.png&quot; alt=&quot;Distance run after first half of play. (from New York Times)&quot; /&gt;&lt;/p&gt;
 
@@ -761,7 +778,7 @@ When a visitor unsubscribes to your website, it&#39;s never a good thing. But at
  <entry>
    <title>Regenerating mice</title>
    <link href="http://mostlycurious.com/2013/04/04/regenerating-mice/"/>
-   <updated>2013-04-04T00:00:00-07:00</updated>
+   <updated>2013-04-04T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/2013/04/04/regenerating-mice</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.nature.com/polopoly_fs/7.6582.1348672991!/image/Seifert2.jpg_gen/derivatives/landscape_300/Seifert2.jpg&quot; alt=&quot;Picture of injured spiny mouse (from Nature)&quot; /&gt;&lt;/p&gt;
 
@@ -772,7 +789,7 @@ When a visitor unsubscribes to your website, it&#39;s never a good thing. But at
  <entry>
    <title>Flight of the dragonflies.</title>
    <link href="http://mostlycurious.com/2013/04/04/dragonfly-neurons/"/>
-   <updated>2013-04-04T00:00:00-07:00</updated>
+   <updated>2013-04-04T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/2013/04/04/dragonfly-neurons</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/posts/2013-04-04-evading_dragonfly.png&quot; alt=&quot;Dragonfly evading bullfrog. (from New York Times)&quot; /&gt;&lt;/p&gt;
 
@@ -787,7 +804,7 @@ When a visitor unsubscribes to your website, it&#39;s never a good thing. But at
  <entry>
    <title>Fonts for mostlycurious</title>
    <link href="http://mostlycurious.com/2013/03/23/google-web-fonts/"/>
-   <updated>2013-03-23T00:00:00-07:00</updated>
+   <updated>2013-03-23T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/2013/03/23/google-web-fonts</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/img/posts/2013-02-23-googlewebfont.png&quot; alt=&quot;Lato font by Lukasz Dziedzic&quot; /&gt;&lt;/p&gt;
 
@@ -802,7 +819,7 @@ When a visitor unsubscribes to your website, it&#39;s never a good thing. But at
  <entry>
    <title>The good life at Spitbank Fort</title>
    <link href="http://mostlycurious.com/2013/03/19/spitbank-fort/"/>
-   <updated>2013-03-19T00:00:00-07:00</updated>
+   <updated>2013-03-19T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/2013/03/19/spitbank-fort</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Guests_Arriving_at_Spitbank_Fort.jpg/300px-Guests_Arriving_at_Spitbank_Fort.jpg&quot; alt=&quot;Old fort to luxury hotel&quot; /&gt;&lt;/p&gt;
 
@@ -817,7 +834,7 @@ When a visitor unsubscribes to your website, it&#39;s never a good thing. But at
  <entry>
    <title>Migrating from Posterous to Jekyll</title>
    <link href="http://mostlycurious.com/2013/03/17/posterous2jekyll/"/>
-   <updated>2013-03-17T00:00:00-07:00</updated>
+   <updated>2013-03-17T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/2013/03/17/posterous2jekyll</id>
    <content type="html">&lt;p&gt;After several years of happily using posterous and it&#39;s easy email-to-blog service, I&#39;ve been forced to seek alternatives as posterous will turn off later next month. This post is my first attempt to blog using Jekyll, a rather straightforward way to communicate on the web.&lt;/p&gt;
 
@@ -828,7 +845,7 @@ When a visitor unsubscribes to your website, it&#39;s never a good thing. But at
  <entry>
    <title>About Me</title>
    <link href="http://mostlycurious.com/2013/03/17/about/"/>
-   <updated>2013-03-17T00:00:00-07:00</updated>
+   <updated>2013-03-17T00:00:00-04:00</updated>
    <id>http://blog.apps.npr.org/2013/03/17/about</id>
    <content type="html">&lt;p&gt;&lt;section class=&quot;entry&quot;&gt;&lt;/p&gt;
 

@@ -7,6 +7,23 @@
     <atom:link href="http://rpjb.github.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Withings And Nest</title>
+        <description>&lt;p&gt;Temperature is a key environmental factor in getting the best sleep. If it is too hot or too cold, people won&#39;t be able to sleep. They&#39;ll look to the cooler side of the pillow.  They&#39;ll twist and turn. It would be much easier if the room could alter bedroom temperature seamlessly through the night.&lt;/p&gt;
+
+&lt;p&gt;Withings has a sleep detector, and Nest has a thermostat. But both devices are not just the traditional hardware that have existed for the last 50 years. They have wireless communications, and can talk to each other.&lt;/p&gt;
+
+&lt;p&gt;So what&#39;s the software magic?&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;When Aura has detected that a user is asleep, it will send a notification to your Nest thermostat to adjust the temperature to fall between 64.4-68° Fahrenheit, the best range for sleeping. When Aura senses that you haven woken up, it will communicate this information to Nest so that the temperature can return back to normal.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;It will be interesting to examine how users&#39; quality of sleep improves over time with this system. After all, it is the ultimate test of this new product enhancement.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 May 2015 00:00:00 -0400</pubDate>
+        <link>http://rpjb.github.com//sleep/2015/05/11/withings-and-nest/</link>
+        <guid isPermaLink="true">http://rpjb.github.com//sleep/2015/05/11/withings-and-nest/</guid>
+      </item>
+    
+      <item>
         <title>How To Start A Startup</title>
         <description>&lt;p&gt;&lt;a href=&quot;http://startupclass.samaltman.com/courses/lec01/&quot;&gt;Lecture 1: How to Start a Startup&lt;/a&gt;&lt;/p&gt;
 
@@ -95,7 +112,7 @@ at least that’s what it feels like to me and most CEOs I know. If you want to 
 
 &lt;p&gt;We could see the impact it was having at Facebook, we were convinced it was valuable to the world. We were also convinced no one else was going to build it, the problem had been around a long time and we just kept seeing incremental solutions to it and so we believed if we didn&#39;t come out with the solution we thought was best, there would be a lot of value left on the table. We couldn&#39;t stop working on it and literally the idea was beating itself out of our chests and forcing itself out into the world. And I think that&#39;s really the feeling you should be looking for when you start a company, that&#39;s how you know you have the right idea.&lt;/p&gt;&lt;/blockquote&gt;
 </description>
-        <pubDate>Sat, 25 Apr 2015 00:00:00 -0700</pubDate>
+        <pubDate>Sat, 25 Apr 2015 00:00:00 -0400</pubDate>
         <link>http://rpjb.github.com//organization/2015/04/25/how-to-start-a-startup/</link>
         <guid isPermaLink="true">http://rpjb.github.com//organization/2015/04/25/how-to-start-a-startup/</guid>
       </item>
@@ -142,7 +159,7 @@ at least that’s what it feels like to me and most CEOs I know. If you want to 
 
 &lt;blockquote&gt;&lt;p&gt;When you hire more engineers you don&#39;t get that much more done. You actually sometimes get less done. You hire more designers, you definitely don&#39;t get more done, you get less done in a day.&lt;/p&gt;&lt;/blockquote&gt;
 </description>
-        <pubDate>Sat, 25 Apr 2015 00:00:00 -0700</pubDate>
+        <pubDate>Sat, 25 Apr 2015 00:00:00 -0400</pubDate>
         <link>http://rpjb.github.com//organization/2015/04/25/how-to-operate/</link>
         <guid isPermaLink="true">http://rpjb.github.com//organization/2015/04/25/how-to-operate/</guid>
       </item>
@@ -163,7 +180,7 @@ at least that’s what it feels like to me and most CEOs I know. If you want to 
 
 &lt;blockquote&gt;&lt;p&gt;Preparing better than the other side; probing so you know what they want and why; and proposing, ideally without going first and revealing too much.&lt;/p&gt;&lt;/blockquote&gt;
 </description>
-        <pubDate>Mon, 13 Apr 2015 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 13 Apr 2015 00:00:00 -0400</pubDate>
         <link>http://rpjb.github.com//organization/2015/04/13/negotiation-literature/</link>
         <guid isPermaLink="true">http://rpjb.github.com//organization/2015/04/13/negotiation-literature/</guid>
       </item>
@@ -178,7 +195,7 @@ at least that’s what it feels like to me and most CEOs I know. If you want to 
 
 &lt;p&gt;On the web there is another good example and walkthrough from &lt;a href=&quot;http://bahmutov.calepin.co/search-across-my-blog-posts-and-github-projects.html&quot;&gt;Gleb Bahmutov&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 11 Apr 2015 00:00:00 -0700</pubDate>
+        <pubDate>Sat, 11 Apr 2015 00:00:00 -0400</pubDate>
         <link>http://rpjb.github.com//2015/04/11/mostlycurious-search/</link>
         <guid isPermaLink="true">http://rpjb.github.com//2015/04/11/mostlycurious-search/</guid>
       </item>
@@ -189,7 +206,7 @@ at least that’s what it feels like to me and most CEOs I know. If you want to 
 
 &lt;p&gt;&lt;img src=&quot;/img/posts/2015-04-03-cohen-d.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 03 Apr 2015 00:00:00 -0700</pubDate>
+        <pubDate>Fri, 03 Apr 2015 00:00:00 -0400</pubDate>
         <link>http://rpjb.github.com//science/2015/04/03/cohen%27s-d-visualized/</link>
         <guid isPermaLink="true">http://rpjb.github.com//science/2015/04/03/cohen%27s-d-visualized/</guid>
       </item>
@@ -198,7 +215,7 @@ at least that’s what it feels like to me and most CEOs I know. If you want to 
         <title>My Matlab Files On Github</title>
         <description>&lt;p&gt;Over the next few weeks, I&#39;ll be distributing various Matlab programs that I&#39;ve used to analyze scientific data.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 28 Mar 2015 00:00:00 -0700</pubDate>
+        <pubDate>Sat, 28 Mar 2015 00:00:00 -0400</pubDate>
         <link>http://rpjb.github.com//productivity/2015/03/28/my-matlab-files-on-github/</link>
         <guid isPermaLink="true">http://rpjb.github.com//productivity/2015/03/28/my-matlab-files-on-github/</guid>
       </item>
@@ -219,7 +236,7 @@ at least that’s what it feels like to me and most CEOs I know. If you want to 
 &lt;/ul&gt;
 
 </description>
-        <pubDate>Wed, 25 Mar 2015 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 25 Mar 2015 00:00:00 -0400</pubDate>
         <link>http://rpjb.github.com//productivity/2015/03/25/windows%2BP/</link>
         <guid isPermaLink="true">http://rpjb.github.com//productivity/2015/03/25/windows%2BP/</guid>
       </item>
@@ -244,7 +261,7 @@ at least that’s what it feels like to me and most CEOs I know. If you want to 
 
 &lt;p&gt;Up to now this all sounds like psychotherapy.  But here&#39;s where technology comes in: you can use the Jawbone up to track your progress. For the first, you have some feedback on your performance that you cant track alongside your lifestyle adjustments. This sounds simple enough to try before resorting to pharmacological interventions.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 02 Mar 2015 22:42:14 -0800</pubDate>
+        <pubDate>Mon, 02 Mar 2015 22:42:14 -0500</pubDate>
         <link>http://rpjb.github.com//sleep/2015/03/02/cognitive-behavioral-therapy-for-insomnia-sleepio/</link>
         <guid isPermaLink="true">http://rpjb.github.com//sleep/2015/03/02/cognitive-behavioral-therapy-for-insomnia-sleepio/</guid>
       </item>
@@ -267,28 +284,9 @@ at least that’s what it feels like to me and most CEOs I know. If you want to 
 
 &lt;blockquote&gt;&lt;p&gt;‘When trying to concentrate on a task, an unread email in your inbox can reduce your effective IQ by 10 points.’&lt;/p&gt;&lt;/blockquote&gt;
 </description>
-        <pubDate>Mon, 16 Feb 2015 20:17:46 -0800</pubDate>
+        <pubDate>Mon, 16 Feb 2015 20:17:46 -0500</pubDate>
         <link>http://rpjb.github.com//learning/productivity/2015/02/16/multitasking-hurts-your-effective-iq/</link>
         <guid isPermaLink="true">http://rpjb.github.com//learning/productivity/2015/02/16/multitasking-hurts-your-effective-iq/</guid>
-      </item>
-    
-      <item>
-        <title>Corning Gorilla Glass</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://www.corninggorillaglass.com/&quot;&gt;Corning Gorilla Glass&lt;/a&gt; is the surface for most typical cellphones.&lt;/p&gt;
-
-&lt;p&gt;How it&#39;s made: &lt;img src=&quot;http://www.ishizuka.co.jp/english/material/images/07_img02.gif&quot; alt=&quot;&quot; /&gt;
-The glass is manufactured by incubation in a bath of hot potassium solution. Sodium ions in the glass are exchanged with larger, heavier potassium ions. This results in compressed, chemically strengthened glass.  It&#39;s actually a refinement of old technology that dates back to the 1960s, and similar techniques have been used to alter the optical properties of glass.&lt;/p&gt;
-
-&lt;p&gt;How it&#39;s branded:&lt;img src=&quot;http://www.corninggorillaglass.com/uploads/kcfinder/images/VidVic2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;object id=&quot;flashObj&quot; width=&quot;480&quot; height=&quot;270&quot; classid=&quot;clsid:D27CDB6E-AE6D-11cf-96B8-444553540000&quot; codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://c.brightcove.com/services/viewer/federated_f9?isVid=1&amp;isUI=1&quot; /&gt;&lt;param name=&quot;bgcolor&quot; value=&quot;#FFFFFF&quot; /&gt;&lt;param name=&quot;flashVars&quot; value=&quot;videoId=713927919001&amp;playerID=625505125001&amp;playerKey=AQ~~,AAAAkVHRxYE~,tk4-uogNPTL8DvW4rWbX-hN95sv6ZKg3&amp;domain=embed&amp;dynamicStreaming=true&quot; /&gt;&lt;param name=&quot;base&quot; value=&quot;http://admin.brightcove.com&quot; /&gt;&lt;param name=&quot;seamlesstabbing&quot; value=&quot;false&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;swLiveConnect&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot; /&gt;&lt;embed src=&quot;http://c.brightcove.com/services/viewer/federated_f9?isVid=1&amp;isUI=1&quot; bgcolor=&quot;#FFFFFF&quot; flashVars=&quot;videoId=713927919001&amp;playerID=625505125001&amp;playerKey=AQ~~,AAAAkVHRxYE~,tk4-uogNPTL8DvW4rWbX-hN95sv6ZKg3&amp;domain=embed&amp;dynamicStreaming=true&quot; base=&quot;http://admin.brightcove.com&quot; name=&quot;flashObj&quot; width=&quot;480&quot; height=&quot;270&quot; seamlesstabbing=&quot;false&quot; type=&quot;application/x-shockwave-flash&quot; allowFullScreen=&quot;true&quot; allowScriptAccess=&quot;always&quot; swLiveConnect=&quot;true&quot; pluginspage=&quot;http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash&quot;&gt;&lt;/embed&gt;&lt;/object&gt;
-
-
-
-</description>
-        <pubDate>Sun, 08 Feb 2015 03:08:05 -0800</pubDate>
-        <link>http://rpjb.github.com//2015/02/08/corning-gorilla-glass/</link>
-        <guid isPermaLink="true">http://rpjb.github.com//2015/02/08/corning-gorilla-glass/</guid>
       </item>
     
   </channel>
