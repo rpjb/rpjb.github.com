@@ -7,6 +7,28 @@
     <atom:link href="http://rpjb.github.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Displaying Grouped File Info In Osx</title>
+        <description>&lt;p&gt;I often want to check the size of a subset of folders on OS X.  To do this I use finder:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/2015-06-11-finder.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The shortcut for viewing info in Finder is ⌘+I.  This is great for single files.  But what happens if you want a group of folders (or files)?&lt;/p&gt;
+
+&lt;p&gt;Result of ⌘+I&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/2015-06-11-soloinfo.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To get the summary of a group try the following.&lt;br/&gt;
+Result of ⌘+⌥+I&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/2015-06-11-groupinfo.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Jun 2015 00:00:00 -0400</pubDate>
+        <link>http://rpjb.github.com//productivity/2015/06/11/displaying-grouped-file-info-in-OSX/</link>
+        <guid isPermaLink="true">http://rpjb.github.com//productivity/2015/06/11/displaying-grouped-file-info-in-OSX/</guid>
+      </item>
+    
+      <item>
         <title>Withings And Nest</title>
         <description>&lt;p&gt;Temperature is a key environmental factor in getting the best sleep. If it is too hot or too cold, people won&#39;t be able to sleep. They&#39;ll look to the cooler side of the pillow.  They&#39;ll twist and turn. It would be much easier if the room could alter bedroom temperature seamlessly through the night.&lt;/p&gt;
 
@@ -264,29 +286,6 @@ at least that’s what it feels like to me and most CEOs I know. If you want to 
         <pubDate>Mon, 02 Mar 2015 22:42:14 -0500</pubDate>
         <link>http://rpjb.github.com//sleep/2015/03/02/cognitive-behavioral-therapy-for-insomnia-sleepio/</link>
         <guid isPermaLink="true">http://rpjb.github.com//sleep/2015/03/02/cognitive-behavioral-therapy-for-insomnia-sleepio/</guid>
-      </item>
-    
-      <item>
-        <title>Multitasking hurts your effective IQ</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://www.theguardian.com/science/2015/jan/18/modern-world-bad-for-brain-daniel-j-levitin-organized-mind-information-overload&quot;&gt;The Guardian has an article by Daniel Levitan&lt;/a&gt; that describes the negatives of multitasking.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://ecx.images-amazon.com/images/I/41fd-uSM0QL._AA160_.jpg&quot; alt=&quot;The Organized Mind&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;According to &lt;a href=&quot;http://www.ekmiller.org/&quot;&gt;Earl Miller&lt;/a&gt; at MIT:&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;When people think they’re multitasking, they’re actually just switching from one task to another very rapidly. And every time they do, there’s a cognitive cost in doing so.&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;Why do we multitask when there&#39;s this switching cost? Our brain releases opioids for the snippets of novelty associated with each individual task. And that could be more valuable to our brains, then the rewards of completing a single, longer task.&lt;/p&gt;
-
-&lt;p&gt;What&#39;s worse, &lt;a href=&quot;https://poldracklab.stanford.edu/&quot;&gt;Russ Poldrack&lt;/a&gt;, does fMRI experiments at Stanford, and proposes that multitasking (er, watching TV) during study time could lead to suboptimal memory storage in the brain.&lt;/p&gt;
-
-&lt;p&gt;The rest of the article focuses on how our most accepted forms of communication (email, text) are inherently configured to promote multitasking and information overload. But there is one quote that sticks out in my mind:&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;p&gt;‘When trying to concentrate on a task, an unread email in your inbox can reduce your effective IQ by 10 points.’&lt;/p&gt;&lt;/blockquote&gt;
-</description>
-        <pubDate>Mon, 16 Feb 2015 20:17:46 -0500</pubDate>
-        <link>http://rpjb.github.com//learning/productivity/2015/02/16/multitasking-hurts-your-effective-iq/</link>
-        <guid isPermaLink="true">http://rpjb.github.com//learning/productivity/2015/02/16/multitasking-hurts-your-effective-iq/</guid>
       </item>
     
   </channel>

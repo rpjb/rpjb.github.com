@@ -7,6 +7,7 @@ categories:
   - productivity
 image: "/img/posts/2015-06-11-groupinfo.png"
 ---
+
 I often want to check the size of a subset of folders on OS X.  To do this I use finder:
 
 ![](/img/posts/2015-06-11-finder.png)
