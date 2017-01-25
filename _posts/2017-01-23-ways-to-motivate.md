@@ -1,9 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 author: robert barretto
 description: "Motivation by comparison is better than by encouragement"
 categories: 
+  - productivity
 image: "http://www.advancedphysicalmedicine.org/blog/wp-content/uploads/2013/03/Bad-Personal-Trainer.jpeg"
 ---
 
