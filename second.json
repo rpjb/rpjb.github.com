@@ -1,0 +1,13 @@
+{"sleepstage":[1, 2, 3, 4],
+"sleeptimes":[10,11,12,13],
+"sounttag":[
+	{
+	"id":1,
+	"tag":"apple"
+	},
+	{
+	"id":2,
+	"tag":"orange"
+	}
+]
+}
