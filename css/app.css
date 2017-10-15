@@ -1,4 +1,4 @@
-body { /* font-family: 'Lato',*/ sans-serif; border-top: 10px solid black; font-weight: 400;}
+body { /* font-family: 'Lato',*/ sans-serif; border-top: 0px solid black; font-weight: 400;}
 a { color:#3d80a7;  }
 a:hover: { color: #33576E; text-transform: underline; }
 h1 { font-weight:300; /*font-family: 'Lato', sans-serif;*/ margin-bottom: 10px; font-size: 32px; }

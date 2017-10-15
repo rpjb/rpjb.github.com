@@ -1,5 +1,10 @@
 ---
-published: false
+layout: post
+published: true
+author: robert barretto
+description: Free Chrome's grip on your hard drive
+categories: [web]
+image: "/img/posts/2017-10-01-hard_drive_distribution.png"
 ---
 Recently, my machines have been running out of space fairly quickly.  
 ![2017-10-01-hd-space-before.png]({{site.baseurl}}/img/posts/2017-10-01-hd-space-before.png)
