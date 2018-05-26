@@ -4,8 +4,7 @@ title:  "Exercise with a silent partner"
 date:   2017-01-27 22:11:19 -0500
 categories: mostlycurious
 description: "Motivation by comparison is better than by encouragement"
-categories: 
-  - productivity
+categories: productivity
 image: "http://www.advancedphysicalmedicine.org/blog/wp-content/uploads/2013/03/Bad-Personal-Trainer.jpeg"
 ---
 

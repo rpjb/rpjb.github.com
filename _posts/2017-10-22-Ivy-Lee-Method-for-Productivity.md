@@ -3,7 +3,7 @@ layout: post
 published: true
 author: robert barretto
 description: Six todos per day
-categories: "productivity"
+categories: productivity
 image:
 ---
 James Clear has a nice article ([The Ivy Lee Method, The Daily Routine Experts Recommend for Peak Productivity](https://jamesclear.com/ivy-lee)) about a productivity consultant that Charles Schwab retained to improve company productivity.  

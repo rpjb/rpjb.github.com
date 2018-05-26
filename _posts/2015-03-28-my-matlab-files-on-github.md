@@ -3,8 +3,7 @@ layout: post
 published: true
 author: robert barretto
 description: useful code for image analysis
-categories: 
-  - productivity
+categories: computing
 image: 
 ---
 
