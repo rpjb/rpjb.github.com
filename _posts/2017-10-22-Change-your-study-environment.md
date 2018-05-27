@@ -3,8 +3,8 @@ layout: post
 published: true
 author: robert barretto
 description: Occasionally study in different locations to remember more.
-categories: "learning"
-image: "/img/posts/2014-03-16-clock.jpeg"
+categories: learning
+image:
 ---
 ![Set your alarm later](/img/posts/2014-03-16-clock.jpeg)
 

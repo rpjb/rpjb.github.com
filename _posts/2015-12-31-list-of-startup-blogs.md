@@ -3,8 +3,8 @@ layout: post
 published: false
 author: robert barretto
 description: "Startup reading material"
-categories: 
-image: ""
+categories:
+image:
 ---
 
 [FounderNotes](http://foundernotes.com/)

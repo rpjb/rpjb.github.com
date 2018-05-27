@@ -4,6 +4,7 @@ published: true
 author: robert barretto
 description: Ways to remove frustration and stress at work
 categories: productivity
+image:
 ---
 
 [A 3-Step Process to Break a Cycle of Frustration, Stress, and Fighting at Work](https://hbr.org/2017/07/a-3-step-process-to-break-a-cycle-of-frustration-stress-and-fighting-at-work)

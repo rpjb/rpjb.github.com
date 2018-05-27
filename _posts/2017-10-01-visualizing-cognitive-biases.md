@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: Cheat sheet
+description: cheat sheet of the different ways we can make mistakes
 categories: learning
 image: "/img/posts/2017-10-01-cognitive-bias.jpeg"
 ---

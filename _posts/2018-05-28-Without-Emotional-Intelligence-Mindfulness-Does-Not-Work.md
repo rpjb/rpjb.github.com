@@ -4,6 +4,7 @@ published: true
 author: robert barretto
 description: Self-awareness helps
 categories: productivity
+image:
 ---
 
 [Without Emotional Intelligence, Mindfulness Doesn’t Work](https://hbr.org/2017/09/sgc-what-really-makes-mindfulness-work)

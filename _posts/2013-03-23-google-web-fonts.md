@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Fonts for mostlycurious"
+published: true
 author: robert barretto
 description: "Google web fonts are open-source and pretty fast. Mostlycurious is going with Lato."
+categories: [web, mostlycurious]
+title: "Fonts for mostlycurious"
 ---
 ![Lato font by Lukasz Dziedzic](/img/posts/2013-02-23-googlewebfont.png)
 
@@ -10,6 +12,4 @@ description: "Google web fonts are open-source and pretty fast. Mostlycurious is
 
 I settled on the Lato font at 400 weight. On my Keynote presentations, I've used Helvetica Neue with light weighting since 2009. So I guess I was looking for something similar. I wanted thin lines, which Helvetica Neue does with good effect. However unlike presentations, I presume someone will be reading these paragraphs. So on a browser, perhaps something with a bit larger character spacing would work. Let me know what you think....
 
-![Helvetica Neue Light in Keynote](/img/posts/2013-03-23-helvetica-neue.png) 
-
-
+![Helvetica Neue Light in Keynote](/img/posts/2013-03-23-helvetica-neue.png)
