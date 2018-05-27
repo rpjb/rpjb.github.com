@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article>
+    <header>
+        <h1>{{ page.title }}</h1>
+        <p class="byline"> {{ page.date | date: "%B %d, %Y" }}</p>
+        <p>From {{page.docauthor}} on <a href="{{ page.doclocation }}"> {{page.doctitle}} </a></p>
+        <blockquote cite={{page.doclocation}}>{{ page.docquote }}</blockquote>
+
+        <div class="social">
+            <div class="fb-like" data-href="{{ post.URL }}" data-send="false" data-layout="button_count" data-width="200" data-show-faces="false" data-font="segoe ui"></div>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-via="rpjb">Tweet</a>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        </div>
+    </header>
+
+	<section class="entry">{{ content }}</section>
+
+</article>
