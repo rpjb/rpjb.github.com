@@ -22,6 +22,19 @@ url: "http://rpjb.github.com" # the base hostname & protocol for your site, e.g.
 twitter_username: rpjb
 github_username: rpjb
 
+# Category settings
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"
+
 # Build settings
 markdown: kramdown
 theme: minima
