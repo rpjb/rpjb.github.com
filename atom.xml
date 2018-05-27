@@ -15,7 +15,7 @@ layout: nil
    <title>{{ post.title }}</title>
    <link href="http://mostlycurious.com{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://blog.apps.npr.org{{ post.id }}</id>
+   <id>http://mostlycurious.com{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
