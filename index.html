@@ -18,9 +18,12 @@ title: Main Index
           <a href="{{ post.url }}">>></a>
           </br>
         </section>
-      {% else %}
+      {% elsif post.layout == 'gist' %}
         <p>From {{post.docauthor}} on <a href="{{ post.doclocation }}"> {{post.doctitle}} </a></p>
         <blockquote cite={{post.doclocation}}>{{ post.docquote }}</blockquote>
+        <a href="{{ post.url }}">
+          <img width="25%" src="{{ post.image }}" />
+        </a>
       {% endif %}
     </article>
 

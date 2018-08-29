@@ -9,6 +9,8 @@ permalink: /utility/post_utility.html
     <th> Post </th>
     <th> Date </th>
     <th> Category </th>
+    <th> Layout </th>
+    <th> Published </th>
   </tr>
 
 {% for post in site.posts %}
@@ -21,6 +23,12 @@ permalink: /utility/post_utility.html
       {% else %}
         {{ post.categories }}
       {% endif %}
+    </td>
+    <td>
+      {{ post.layout }}
+    </td>
+    <td>
+      {{ post.published }}
     </td>
   </tr>
 {% endfor %}
