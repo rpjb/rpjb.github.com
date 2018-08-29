@@ -3,7 +3,7 @@ layout: post
 published: true
 author: robert barretto
 description: "Inserting a searchbar on a Github-hosted Jekyll blog"
-categories: 
+categories: [web, mostlycurious]
 image: "/img/posts/2015-04-11-google-custom-search.png"
 ---
 

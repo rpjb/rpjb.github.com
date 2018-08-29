@@ -3,8 +3,8 @@ layout: post
 published: true
 author: robert barretto
 description:
-categories:  
-image: "/img/posts/ "
+categories: [web, mostlycurious]
+image:
 ---
 
 This is a demo of all styled elements in Jekyll Now.

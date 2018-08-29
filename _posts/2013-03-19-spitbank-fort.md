@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "The good life at Spitbank Fort"
+published: true
 author: robert barretto
 description: "You could even get married at this island fortress."
+categories: zerorelevance
+title: "The good life at Spitbank Fort"
 ---
 ![Old fort to luxury hotel](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Guests_Arriving_at_Spitbank_Fort.jpg/300px-Guests_Arriving_at_Spitbank_Fort.jpg)
 

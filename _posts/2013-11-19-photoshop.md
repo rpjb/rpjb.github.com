@@ -3,6 +3,7 @@ layout: post
 title: "Digital enhancements"
 author: robert barretto
 description: "For a photoshoot."
+categories: zerorelevance
 image: /img/posts/2013-11-19-after.png
 
 ---

@@ -3,6 +3,7 @@ layout: post
 published: true
 author: robert barretto
 description: one eel at a time
+categories: zerorelevance
 image: "/img/posts/2014-04-12-alligator.png"
 ---
 

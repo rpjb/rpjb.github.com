@@ -2,6 +2,7 @@
 layout: post
 title: "Going for distance"
 author: robert barretto
+categories: zerorelevance
 description: "Statues of the male form during urination."
 ---
 

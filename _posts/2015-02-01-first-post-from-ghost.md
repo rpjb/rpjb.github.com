@@ -4,6 +4,7 @@ title: First post from ghost
 published: true
 author: robert barretto
 date: '2015-02-01 21:25:51'
+categories: [web, mostlycurious]
 image: "/img/posts/2015-02-01-ghost_slogan.png"
 
 ---

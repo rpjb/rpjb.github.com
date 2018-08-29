@@ -2,6 +2,7 @@
 layout: post
 title: "Unsubscribe to The Children's Place"
 author: robert barretto
+categories: zerorelevance
 description: "And have a chuckle while you are at it."
 ---
 
