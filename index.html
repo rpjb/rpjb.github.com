@@ -10,20 +10,27 @@ title: Main Index
 			<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 		</header>
       {% if post.layout == 'post' %}
+        {% if post.image != nil %}
         <a href="{{ post.url }}">
           <img width="25%" src="{{ post.image }}" />
         </a>
         </br>
+        </br>
+        {% endif %}
         <section class="entry">{{ post.description }}
           <a href="{{ post.url }}">>></a>
           </br>
         </section>
       {% elsif post.layout == 'gist' %}
-        <p>From {{post.docauthor}} on <a href="{{ post.doclocation }}"> {{post.doctitle}} </a></p>
-        <blockquote cite={{post.doclocation}}>{{ post.docquote }}</blockquote>
+        {% if post.image != nil %}
         <a href="{{ post.url }}">
           <img width="25%" src="{{ post.image }}" />
         </a>
+        </br>
+        </br>
+        {% endif %}
+        <p>From {{post.docauthor}} on <a href="{{ post.doclocation }}"> {{post.doctitle}} </a></p>
+        <blockquote cite={{post.doclocation}}>{{ post.docquote }}</blockquote>
       {% endif %}
     </article>
 
