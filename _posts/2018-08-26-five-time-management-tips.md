@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: tips to encourage deep work
+description: tips to encourage deep work.
 categories: productivity
 image:
 ---

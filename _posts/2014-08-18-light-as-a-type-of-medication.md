@@ -2,8 +2,8 @@
 layout: post
 published: true
 author: robert barretto
-description: Using lights to manage my sleepiness
-categories: 
+description: using lights to manage my sleepiness.
+categories:
   - sleep
 image: "/img/posts/2014-08-18-bright-CFL.jpg"
 ---
@@ -16,4 +16,3 @@ While alot of people get along fine by consuming caffeine, as a coffee non-drink
 
 Conversely, when I'm sleepy, I try to minimize the potential for having bright light come into my room.  The best method I've seen is to use [blackout curtains](http://www.amazon.com/Solid-Thermal-Insulated-Blackout-Curtain/dp/B001A63XTS) which are also easily available on Amazon.  In this case, I can have a nice deep sleep for many more hours past my typical awakening time.
 ![Blackout curtains](/img/posts/2014-08-18-blackout-curtain.png)
-

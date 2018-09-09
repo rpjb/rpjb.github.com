@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description:
+description: syntax reminders.
 categories: [web, mostlycurious]
 image:
 ---

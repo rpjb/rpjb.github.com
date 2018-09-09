@@ -2,9 +2,9 @@
 layout: post
 published: true
 author: robert barretto
-categories: 
+categories:
   - sleep
-description: A single gene could determine how much sleep you require each night.
+description: a single gene could determine how much sleep you require each night.
 ---
 
 There's an article on Quora asking ["How can I determine what my personal basal sleep requirement is?"](http://www.quora.com/Sleep/How-can-I-determine-what-my-personal-basal-sleep-requirement-is) The short answer is 7-9 hours of sleep.

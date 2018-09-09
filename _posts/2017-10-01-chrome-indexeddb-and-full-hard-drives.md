@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: Free Chrome's grip on your hard drive
+description: free chrome's grip on your hard drive.
 categories: computing
 image: "/img/posts/2017-10-01-hard_drive_distribution.png"
 ---

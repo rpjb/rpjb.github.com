@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: Simple tools to make decisions effectively
+description: simple tools to make decisions effectively.
 categories: productivity
 image:
 ---

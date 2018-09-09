@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: Self-awareness helps
+description: self-awareness helps.
 categories: productivity
 image:
 ---

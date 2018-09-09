@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: personality traits of creative people
+description: personality traits of creative people.
 categories: productivity
 image:
 ---

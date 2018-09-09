@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: "Google web fonts are open-source and pretty fast. Mostlycurious is going with Lato."
+description: "google web fonts are open-source and pretty fast. mostlycurious is going with lato."
 categories: [web, mostlycurious]
 title: "Fonts for mostlycurious"
 ---

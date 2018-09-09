@@ -2,7 +2,7 @@
 layout: post
 title: "the Sheepdog Sciences word cloud"
 author: robert barretto
-description: "What do people want to learn today?"
+description: "what do people want to learn today?"
 categories: [sleep, learning]
 image: /img/posts/2014-01-31-sds-word-cloud.jpg
 ---

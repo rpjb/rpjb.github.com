@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: Automating the aggregation of categories
+description: automating the aggregation of categories.
 categories: mostlycurious
 ---
 The categories of the blog post used to be hardcoded -- there are individual layout files for each category.  This is acceptable if I add an additional category, as I could just copy/paste and rename the file for the new category.

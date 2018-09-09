@@ -4,7 +4,7 @@ published: false
 author: robert barretto
 description:
 categories:  
-image: "/img/posts/ "
+image:
 ---
 
 # Why Hate the Koch Brothers? (Part 1)

@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: "You could even get married at this island fortress."
+description: "you could even get married at this island fortress."
 categories: zerorelevance
 title: "The good life at Spitbank Fort"
 ---

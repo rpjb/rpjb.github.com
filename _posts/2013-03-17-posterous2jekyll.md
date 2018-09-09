@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: "Posterous is closing down, and I'm moving to a simpler service."
+description: "posterous is closing down, and i'm moving to a simpler service."
 categories: mostlycurious
 title: "Migrating from Posterous to Jekyll"
 ---

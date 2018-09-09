@@ -2,7 +2,7 @@
 layout: post
 title: "Too much data"
 author: robert barretto
-description: "Sometimes it's not worth it."
+description: "sometimes it's not worth it."
 categories: organization
 image: /img/posts/2014-02-19-resonate.png
 ---

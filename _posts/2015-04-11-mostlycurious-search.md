@@ -2,9 +2,9 @@
 layout: post
 published: true
 author: robert barretto
-description: "Inserting a searchbar on a Github-hosted Jekyll blog"
+description: inserting a searchbar on a github-hosted jekyll blog.
 categories: [web, mostlycurious]
-image: "/img/posts/2015-04-11-google-custom-search.png"
+image: /img/posts/2015-04-11-google-custom-search.png
 ---
 
 Mostlycurious.com is a static Jekyll site hosted on Github.  This has been pretty convenient compared to my prior efforts, which have included Posterous, Tumblr, Ghost. One thing I have always wanted to include was a site-specific search bar.

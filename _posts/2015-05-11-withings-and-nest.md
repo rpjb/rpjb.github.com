@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: "Integrating the Nest Thermostat and Withings Aura"
+description: integrating the nest thermostat and withings aura.
 categories: sleep
 image: http://blog-admin.withings.com/wp-content/uploads/2015/03/Nest-et-Aura-integration_F.png
 ---

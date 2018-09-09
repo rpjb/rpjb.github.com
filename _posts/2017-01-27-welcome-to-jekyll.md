@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: overcoming the fear of changing things
+description: overcoming the fear of changing things.
 categories: mostlycurious
 image: "http://jekyllrb.com/img/logo-2x.png"
 title:  "Upgrading from Jekyll v0.8 to v3.3"

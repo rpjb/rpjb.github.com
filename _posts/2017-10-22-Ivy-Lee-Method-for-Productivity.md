@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: Six todos per day
+description: six todos per day.
 categories: productivity
 image:
 ---

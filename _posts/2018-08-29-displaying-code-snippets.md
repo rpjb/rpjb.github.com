@@ -2,12 +2,12 @@
 layout: post
 published: true
 author: robert barretto
-description:
+description: examples of code blocks to show syntax.
 categories: mostlycurious
 image:
 ---
+Using liquid curly brackets to generate code blocks:
 {% raw %}
-Using liquid to generate code blocks:
 ```html
 {% highlight ruby %}
 def foo
@@ -23,6 +23,7 @@ end
 ```
 {% endraw %}
 
+Renders:
 {% highlight ruby %}
 def foo
   puts 'foo'
@@ -35,7 +36,8 @@ function [output]=multiply(x,y)
 end
 {% endhighlight %}
 
-Using liquid to generate code blocks:
+
+Using Liquid apostrophes to generate code blocks:
 `````html
   ```ruby
   def foo
@@ -48,7 +50,7 @@ Using liquid to generate code blocks:
   end
   ```
 `````
-
+Renders:
 ```ruby
 def foo
   puts 'foo'

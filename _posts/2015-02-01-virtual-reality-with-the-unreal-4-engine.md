@@ -6,6 +6,7 @@ image: "/img/posts/2015-02-01-unreal-engine.png"
 title: Virtual reality with the Unreal Engine 4
 categories: science
 date: '2015-02-01 21:48:28'
+description: getting closer to mainstream.
 ---
 
 The things software engineers can do with the [Unreal Engine 4](https://www.unrealengine.com/showcase?category=Film%20and%20Television) are amazing. Below is a still frame from a virtual home.

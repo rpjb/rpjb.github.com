@@ -3,7 +3,7 @@ layout: post
 title: "New dell laptop that smells awful"
 author: robert barretto
 categories: zerorelevance
-description: "Smell's like cat pee, but there's a solution."
+description: "smell's like cat pee, but there's a solution."
 ---
 
 This is a great find by my co-founder Alex. There's a [Dell forum thread](http://en.community.dell.com/support-forums/laptop/f/3518/t/19512174.aspx) that concerns new laptop purchases, that have rather smelly palm rests.

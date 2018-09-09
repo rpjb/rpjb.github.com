@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: A primer on procrastination
+description: a primer on procrastination.
 categories: productivity
 image:
 ---

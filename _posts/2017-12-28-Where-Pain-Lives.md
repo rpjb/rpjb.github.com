@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: thinking about pain through the lens of brain circuits
+description: thinking about pain through the lens of brain circuits.
 categories: science
 image:
 ---

@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: A fast CO2 sensor to estimate metabolic rate.
+description: a fast CO2 sensor to estimate metabolic rate.
 categories: science
 image: "/img/posts//2018-08-28-lumen-metabolism-967aa3db.png"
 title:  Consumer device for measuring metabolic activity

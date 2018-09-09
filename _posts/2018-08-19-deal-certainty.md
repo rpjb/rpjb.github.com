@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: Do you really have an agreement?
+description: do you really have an agreement?
 categories: [organization, productivity]
 image:
 ---

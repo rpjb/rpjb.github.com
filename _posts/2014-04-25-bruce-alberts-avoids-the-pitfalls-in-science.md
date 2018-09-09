@@ -3,7 +3,7 @@ layout: post
 published: true
 author: robert barretto
 categories: science
-description: "steer away from one-sided experiments "
+description: steer away from one-sided experiments.
 ---
 
 The following are excerpts from a [small essay](http://www.nature.com/nature/journal/v431/n7012/full/4311041a.html) by Bruce Alberts (the author of [Molecular Biology of the Cell](http://www.amazon.com/Molecular-Biology-Cell-Bruce-Alberts/dp/0815341059)).  

@@ -2,8 +2,8 @@
 layout: post
 published: true
 author: robert barretto
-description: Minimize your morning grogginess
-categories: 
+description: minimize your morning grogginess.
+categories:
   - sleep
   - learning
 image: "/img/posts/2014-05-12-clocky.jpg"

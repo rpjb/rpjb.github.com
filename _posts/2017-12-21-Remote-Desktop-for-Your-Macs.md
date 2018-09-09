@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: How to control a headless mac
+description: how to control a headless mac.
 categories: computing
 image: "/img/posts/2017-12-21-icloud-back-to-my-mac.png"
 ---

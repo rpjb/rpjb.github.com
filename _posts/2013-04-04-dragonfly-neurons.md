@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: "Studying a 16-neuron circuit for flight control"
+description: "studying a 16-neuron circuit for flight control."
 categories: science
 title: "Flight of the dragonflies."
 ---

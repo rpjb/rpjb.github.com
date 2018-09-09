@@ -2,10 +2,10 @@
 layout: post
 published: true
 author: robert barretto
-description: "Motivation by comparison is better than by encouragement"
+description: motivation by comparison is better than by encouragement.
 categories: productivity
 image: "http://www.advancedphysicalmedicine.org/blog/wp-content/uploads/2013/03/Bad-Personal-Trainer.jpeg"
-title:  "Exercise with a silent partner"
+title: Exercise with a silent partner
 ---
 
 The Harvard Business Review has an [https://hbr.org/2013/07/if-you-want-to-motivate-someone-shut-up-already](article about the use of encouragement to motivate people during an exercise workout).  Basically, they find that the method of exercising with a silent partner is more effective than when using an encouraging partner.

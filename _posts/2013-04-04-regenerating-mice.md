@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: "Mammals can regenerate their tissue."
+description: "mammals can regenerate their tissue."
 categories: science
 title: "Regenerating mice"
 ---

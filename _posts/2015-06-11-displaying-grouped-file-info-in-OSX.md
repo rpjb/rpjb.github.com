@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: An OSX shortcut to get info for a group of files.
+description: an OSX shortcut to get info for a group of files.
 categories: computing
 image: "/img/posts/2015-06-11-groupinfo.png"
 ---

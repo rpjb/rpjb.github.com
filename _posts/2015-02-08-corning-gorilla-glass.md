@@ -4,7 +4,7 @@ title: Corning Gorilla Glass
 date: '2015-02-08 03:08:05'
 image: "http://www.ishizuka.co.jp/english/material/images/07_img02.gif"
 categories: science
-description: "Ion exchange is not used only for GRIN lenses."
+description: ion exchange is not used only for GRIN lenses.
 ---
 
 [Corning Gorilla Glass](http://www.corninggorillaglass.com/) is the surface for most typical cellphones.  

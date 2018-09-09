@@ -3,7 +3,7 @@ layout: post
 title: "Going for distance"
 author: robert barretto
 categories: zerorelevance
-description: "Statues of the male form during urination."
+description: "statues of the male form during urination."
 ---
 
 On my last trip to the Philippines, I came across an interesting seafood restaurant. As I walked in, I was greeted by two statues of men posing as they urinated into a koi pond.

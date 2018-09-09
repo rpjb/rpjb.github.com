@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: Occasionally study in different locations to remember more.
+description: occasionally study in different locations to remember more.
 categories: learning
 image:
 ---

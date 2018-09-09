@@ -2,8 +2,8 @@
 layout: post
 published: false
 author: robert barretto
-description: "Startup reading material"
-categories:
+description: startup reading material.
+categories: organization
 image:
 ---
 

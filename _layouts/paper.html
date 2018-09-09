@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<article>
+    <header>
+        <h1>{{ page.title }}</h1>
+        <p class="byline"> {{ page.date | date: "%B %d, %Y" }}</p>
+        <p>From {{page.docauthor}} on <a href="{{ page.doclocation }}"> {{page.doctitle}} </a></p>
+        <blockquote cite={{page.doclocation}}>{{ page.docquote }}</blockquote>
+    </header>
+	<section class="entry">{{ content }}</section>
+</article>

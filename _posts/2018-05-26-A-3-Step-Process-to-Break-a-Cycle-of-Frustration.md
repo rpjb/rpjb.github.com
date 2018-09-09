@@ -2,7 +2,7 @@
 layout: post
 published: true
 author: robert barretto
-description: Ways to remove frustration and stress at work
+description: ways to remove frustration and stress at work.
 categories: productivity
 image:
 ---

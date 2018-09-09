@@ -3,7 +3,7 @@ layout: post
 title: "Old guys can still play"
 author: robert barretto
 categories: zerorelevance
-description: "Even in the Champions League, 37 year olds can still play in midfield."
+description: "even in the champions league, 37 year olds can still play in midfield."
 ---
 
 ![Distance run after first half of play. (from New York Times)](/img/posts/2013-04-11-beckham-runs.png)
