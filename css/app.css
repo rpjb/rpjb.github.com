@@ -64,6 +64,7 @@ p.nav-header.a { text-transform: none; font-weight: normal; font-size: 12px; pad
     p.nav-header { width:60%; margin: 20px auto 0; text-align:center;}
 }
 
+/* https://gist.github.com/saintedlama/628ba457dd5ae8b97ece
 /* Adjusted to give override background and text colour */
 .highlight pre, pre, .highlight .hll {
     background-color: #49483E;
@@ -72,7 +73,6 @@ p.nav-header.a { text-transform: none; font-weight: normal; font-size: 12px; pad
     border-radius: 3px;
     color: #FFFFFF;
 }
-
 /* Highlights taken from https://gist.github.com/asaaki/1007420  for Monokai theme */
 .c                 { color: #75715e }                            /* Comment                     */
 .err               { color: #960050; background-color: #1e0010 } /* Error                       */
