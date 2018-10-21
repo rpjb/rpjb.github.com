@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 author: robert barretto
 description: startup reading material.
 categories: organization

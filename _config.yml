@@ -36,6 +36,7 @@ defaults:
       layout: "category"
 
 # Build settings
+show_drafts: false
 markdown: kramdown
 kramdown:
   syntax_highlighter: rouge

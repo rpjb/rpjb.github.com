@@ -1,6 +1,5 @@
 ---
 layout: post
-published: false
 author: robert barretto
 description:
 categories:  

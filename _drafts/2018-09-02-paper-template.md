@@ -1,6 +1,5 @@
 ---
 layout: paper
-published: false
 author: robert barretto
 description:
 categories: science

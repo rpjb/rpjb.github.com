@@ -21,6 +21,11 @@ title: Web Index
       {% else %}
         <p>From {{post.docauthor}} on <a href="{{ post.doclocation }}"> {{post.doctitle}} </a></p>
         <blockquote cite={{post.doclocation}}>{{ post.docquote }}</blockquote>
+        {% unless post.image == '' %}
+        <a href="{{ post.url }}">
+  			  <img width="50%" src="{{ post.image }}" />
+  		  </a>
+        {% endunless %}
       {% endif %}
 
 
