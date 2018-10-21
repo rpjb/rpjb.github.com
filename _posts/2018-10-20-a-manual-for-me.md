@@ -4,7 +4,7 @@ published: true
 author: robert barretto
 description:
 categories:
-image: "/img/posts//2018-10-20-a-manual-for-me-2043ccbd.png"
+image: "/img/posts/2018-10-20-a-manual-for-me-2043ccbd.png"
 ---
 
 ### Communicating with colleagues
