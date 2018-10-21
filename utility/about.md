@@ -4,9 +4,6 @@ title: About
 permalink: /about/
 ---
 
-
-
-
 ---
 ## Observing the physiology of sleep
 A substantial portion of life is spent in sleep, yet very few biological mechanisms that underlie sleep have been elucidated. Observation is a good starting point.
