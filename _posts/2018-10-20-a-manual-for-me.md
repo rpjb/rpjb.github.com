@@ -2,8 +2,8 @@
 layout: post
 published: true
 author: robert barretto
-description:
-categories:
+description: one-page to understand how i work
+categories: productivity
 image: "/img/posts//2018-10-20-a-manual-for-me-2043ccbd.png"
 ---
 
