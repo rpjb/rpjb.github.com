@@ -5,6 +5,7 @@ author: robert barretto
 description: examples of code blocks to show syntax.
 categories: mostlycurious
 image:
+excerpt_separator: \{% endhighlight %\}
 ---
 Using liquid curly brackets to generate code blocks:
 {% raw %}
@@ -63,3 +64,6 @@ end
 ```
 
 To embed liquid templating into a markdown code block, see [Ozzie Liu's solutions](http://ozzieliu.com/2016/04/26/writing-liquid-template-in-markdown-with-jekyll/).
+
+If your jekyll engine gives a warning for parsing the liquid syntax, see
+[this bug](https://github.com/jekyll/jekyll/issues/5596).

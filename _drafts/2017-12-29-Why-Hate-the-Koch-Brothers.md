@@ -2,7 +2,7 @@
 layout: post
 author: robert barretto
 description:
-categories:  
+categories: zerorelevance
 image:
 ---
 
