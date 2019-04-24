@@ -4,7 +4,7 @@ published: true
 author: robert barretto
 categories: science
 title: What is carb-rinsing
-image: https://blog.trello.com/hs-fs/hubfs/Imported_Blog_Media/kevan-Trello-board-682x576.png?width=682&height=576&name=kevan-Trello-board-682x576.png
+image: https://www.peakendurancesport.com/wp-content/uploads/2018/05/rinse-table.jpg
 ---
 
 During the 2018 World Cup, viewers and readers of the [New York Times](https://www.nytimes.com/2018/07/11/sports/world-cup/harry-kane-england.html) took notice of athletes performing carb rinsing.  This is the act of irrigating their mouths, without ingesting the fluid.  It is assumed that the players were rinsing with carbohydrate solutions.
