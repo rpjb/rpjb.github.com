@@ -3,8 +3,8 @@ layout: post
 published: true
 author: robert barretto
 categories: computing
-title: Logitech Webcam Log Gone Bad
-description: safe to delete LWSDebugOut.txt
+title: Logitech webcam log gone bad
+description: it is safe to delete LWSDebugOut.txt
 image: 
 ---
 

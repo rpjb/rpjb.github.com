@@ -7,7 +7,7 @@ doclocation: https://jamesclear.com/why-facts-dont-change-minds
 
 doctitle: Why Facts Don’t Change Our Minds
 docauthor: James Clear
-title: Persuading With Facts Can Be Difficult
+title: Persuading with facts can be difficult
 docquote: Leo Tolstoy was even bolder- “The most difficult subjects can be explained to the most slow-witted man if he has not formed any idea of them already; but the simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already, without a shadow of doubt, what is laid before him.”
 ---
 
