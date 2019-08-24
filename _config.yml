@@ -46,3 +46,10 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+host: 127.0.0.1
+port: 5100
